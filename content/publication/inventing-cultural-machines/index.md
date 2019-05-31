@@ -3,7 +3,7 @@
 
 title: "Inventing Cultural Machines"
 authors: [Petra Gemeinboeck, Rob Saunders]
-date: 2013
+date: 2013-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
