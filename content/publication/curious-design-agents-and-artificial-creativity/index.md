@@ -16,7 +16,7 @@ publishDate: 2001-01-01T00:00:00+11:00
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Curious Design Agents and Artificial Creativity"
+publication: "PhD Thesis"
 publication_short: ""
 
 abstract: ""
