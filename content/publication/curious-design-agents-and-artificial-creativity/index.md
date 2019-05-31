@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Saunders 2002a"
+title: "Curious Design Agents and Artificial Creativity"
 authors: [Rob Saunders]
 date: 2001-01-01T00:00:00+11:00
 doi: ""
