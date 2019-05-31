@@ -36,7 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "http://www.springer.com/us/book/9783319263762"
+- name: Link
+  url: http://www.springer.com/us/book/9783319263762
+  icon_pack: fas
+  icon: link
+
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
