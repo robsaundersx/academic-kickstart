@@ -3,7 +3,7 @@
 
 title: "Robotic Fabrication in Architecture Art and Design 2016"
 authors: [Dagmar Reinhardt, Rob Saunders, Jane Burry]
-date: 2019-05-31T18:57:13+01:00
+date: 2016-03-31T18:57:13+01:00
 doi: "10.1007/978-3-319-26378-6"
 
 # Schedule page publish date (NOT publication's date).
