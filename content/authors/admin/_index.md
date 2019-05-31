@@ -11,11 +11,14 @@ superuser: true
 
 # Role/position
 role: Associate Professor in Computational Creativity
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Falmouth University
   url: "https://falmouth.ac.uk"
+- name: Sydney University
+  url: "https://sydney.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Creativity and Creative Robotics.
