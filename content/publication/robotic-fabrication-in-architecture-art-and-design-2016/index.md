@@ -49,8 +49,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Robotic Fabrication in Architecture, Art and Design 2016"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
