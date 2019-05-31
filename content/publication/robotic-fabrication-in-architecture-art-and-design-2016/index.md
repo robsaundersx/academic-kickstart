@@ -1,33 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Curious Design Agents and Artificial Creativity"
-authors: [Rob Saunders]
-date: 2001-11-01T00:00:00+11:00
-doi: ""
+title: "Robotic Fabrication in Architecture Art and Design 2016"
+authors: [Dagmar Reinhardt, Rob Saunders, Jane Burry]
+date: 2019-05-31T18:57:13+01:00
+doi: "10.1007/978-3-319-26378-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2001-11-01T00:00:00+11:00
+publishDate: 2019-05-31T18:57:13+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PhD Thesis, University of Sydney"
-publication_short: ""
+publication: "Springer International Publishing, Switzerland, ISBN: 978-3-319-26376-2"
+publication_short: "Springer International Publishing"
 
-abstract: ""
+abstract: "The book presents the proceedings of Rob/Arch 2016, the third international conference on robotic fabrication in architecture, art, and design. The work contains a wide range of contemporary topics, from methodologies for incorporating dynamic material feedback into existing fabrication processes, to novel interfaces for robotic programming, to new processes for large-scale automated construction. The latent argument behind this research is that the term ‘file-to-factory’ must not be a reductive celebration of expediency but instead a perpetual challenge to increase the quality of feedback between design, matter, and making."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
-draft: false
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -37,7 +36,7 @@ draft: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "http://www.springer.com/us/book/9783319263762"
 url_code:
 url_dataset:
 url_poster:
