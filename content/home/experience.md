@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Cornwall, UK"
   date_start = "2016-04-01"
   date_end = ""
-  description = """Co-director of the MetaMakers Insitute."""
+  description = """Co-director of the MetaMakers Insitute exploring the application of Computational Creativity to the design and development of games. Research and leadership in the computational creativity for casual game design."""
 
 [[experience]]
   title = "Senior Research Fellow"
@@ -33,15 +33,32 @@ date_format = "Jan 2006"
   location = "Sydney, Australia"
   date_start = "2016-04-01"
   date_end = "2019-06-30"
-  description = """Co-Investigator of ARC Discovery Project."""
+  description = """Co-Investigator of ARC Discovery Project. Management and implementation of research programme for Performative Body Mapping."""
 
 [[experience]]
-  title = "CEO"
+  title = "Director and Co-Founder"
   company = "Imaginative.AI"
   company_url = ""
   location = "Cornwall, UK"
   date_start = "2016-11-01"
   date_end = "2018-08-01"
-  description = """Co-director of spin-off company exploring commercial application of Computational Creativity."""
+  description = """Co-Founder of spin-off company exploring commercial application of Computational Creativity, initially focussed on casual game creation and education."""
 
+[[experience]]
+  title = "Lecture / Senior Lecturer"
+  company = "Sydney University"
+  company_url = "https://sydney.edu.au"
+  location = "Sydney, Australia"
+  date_start = "2006-04-01"
+  date_end = "2016-04-01"
+  description = """Head of the Design Lab (2013--2016) and Associate Dean, Education (2008–-2010, 2012). Developed and taught new units of study for undergraduate and postgraduate students in Design Computing and M.IDEA. Strategic planning and implementation of initiatives, grants and procedures to promote excellence in learning and teaching. Management of research and teaching programmes in the Design Lab."""
+
+[[experience]]
+  title = "Visiting Lecturer"
+  company = "City University London"
+  company_url = ""
+  location = "London, UK"
+  date_start = "2003-01-01"
+  date_end = "2006-04-01"
+  description = """Redeveloped and taught ‘System Architecture’ for 1st year undergraduate computer science and software engineering students. Redeveloped and taught ‘Networks and Operating Systems’ to Masters students. Developed teaching pack and taught core modules for new degree in Computer Science and Games Technology."""
 +++
