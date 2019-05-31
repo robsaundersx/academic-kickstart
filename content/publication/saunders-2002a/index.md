@@ -17,7 +17,7 @@ publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Curious Design Agents and Artificial Creativity"
-# publication_short: ""
+publication_short: ""
 
 abstract: """Creative products are generally recognised as satisfying two requirements: firstly they are useful, and secondly they are novel. Much effort in AI and design computing has been put into developing systems that can recognise the usefulness of the products that they generate. In contrast, the work presented in this thesis has concentrated on developing computational systems that are able to recognise the novelty of their work. The research has shown that when computational systems are given the ability to recognise both the novelty and the usefulness of their products they gain a level of autonomy that opens up new possibilities for the study of creative behaviour in single agents and the emergence of social creativity in multi-agent systems.
 
