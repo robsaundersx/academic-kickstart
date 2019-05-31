@@ -18,12 +18,11 @@ organizations:
   url: "https://falmouth.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, computational creativity and social robotics.
+bio: My research interests include Computational Creativity and Creative Robotics.
 
 interests:
-- Artificial Intelligence
 - Computational Creativity
-- Social Robotics
+- Creatve Robotics
 
 education:
   courses:
@@ -67,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Rob Saunders is a Associate Professor in Computational Creativity at Falmouth Univeristy and Senior Research Fellow at Sydney University. His research interests include Computational Creativity and Creative Robotics. He co-directs the MetaMakers Institute at Falmouth University, which applies Computational Creativity to Games Design and Development.
