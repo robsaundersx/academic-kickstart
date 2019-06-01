@@ -16,7 +16,7 @@ publishDate: 2019-06-01T11:08:56+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "chapter in Multi-Agent Systems: Simulation and Applications, Taylor and Francis Group, pp. 389–421"
+publication: "chapter in *Multi-Agent Systems: Simulation and Applications*, Taylor and Francis Group, pp. 389–421"
 publication_short: ""
 
 abstract: ""

@@ -16,7 +16,7 @@ publishDate: 2019-05-31T22:32:05+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "chapter in D. Reinhardt, R. Saunders and J. Burry (eds) Robotic Fabrication in Architecture, Art and Design 2016, Springer, pp. 251–262"
+publication: "chapter in D. Reinhardt, R. Saunders and J. Burry (eds) *Robotic Fabrication in Architecture, Art and Design 2016*, Springer, pp. 251–262"
 publication_short: ""
 
 abstract: ""
