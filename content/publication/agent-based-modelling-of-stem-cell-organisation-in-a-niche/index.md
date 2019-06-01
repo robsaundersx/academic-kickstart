@@ -3,7 +3,7 @@
 
 title: "Agent Based Modelling of Stem Cell Organisation in a Niche"
 authors: [Mark d'Inverno, Rob Saunders]
-date: 2009-01-01
+date: 2005-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
