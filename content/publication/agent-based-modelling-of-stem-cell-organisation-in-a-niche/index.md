@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Agent Based Modelling of Stem Cell Organisation in a Niche"
-authors: [Rob Saunders. Kazjon Grace]
+authors: [Mark d'Inverno, Rob Saunders]
 date: 2009-01-01
 doi: ""
 
@@ -16,7 +16,7 @@ publishDate: 2019-06-01T11:11:56+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "chapter in *Applications of Evolutionary Computing*, Vol. 5484 of LNCS, Springer, pp. 591–596"
+publication: "in *Engineering Self-Organising Systems*, Vol. 3464 of LNAI, Springer, 52–68"
 publication_short: ""
 
 abstract: ""
