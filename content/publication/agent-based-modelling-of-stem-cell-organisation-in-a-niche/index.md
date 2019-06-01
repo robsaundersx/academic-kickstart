@@ -16,7 +16,7 @@ publishDate: 2019-06-01T11:11:56+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "chapter in Applications of Evolutionary Computing, Vol. 5484 of LNCS, Springer, pp. 591–596"
+publication: "chapter in *Applications of Evolutionary Computing*, Vol. 5484 of LNCS, Springer, pp. 591–596"
 publication_short: ""
 
 abstract: ""

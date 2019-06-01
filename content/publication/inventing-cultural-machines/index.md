@@ -16,7 +16,7 @@ publishDate: 2019-05-31T23:10:58+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "chapter in Ecologies of Invention, Sydney University Press, pp. 37–46"
+publication: "chapter in *Ecologies of Invention*, Sydney University Press, pp. 37–46"
 publication_short: ""
 
 abstract: ""

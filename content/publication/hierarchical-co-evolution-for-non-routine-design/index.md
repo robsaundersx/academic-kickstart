@@ -16,7 +16,7 @@ publishDate: 2019-06-01T11:12:29+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "chapter in N. E. Mastorakis, C. Manikopoulos, G. E. Antoniou, V. M. Mladenov and I. F. Gonos (eds.), Recent Advances in Intelligent Systems and Signal Processing, WSEAS Press, pp. 275–280"
+publication: "chapter in N. E. Mastorakis, C. Manikopoulos, G. E. Antoniou, V. M. Mladenov and I. F. Gonos (eds.), *Recent Advances in Intelligent Systems and Signal Processing*, WSEAS Press, pp. 275–280"
 publication_short: ""
 
 abstract: ""
