@@ -16,7 +16,7 @@ publishDate: 2019-05-31T23:00:22+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Architecture of Productive Learning Networks, Routledge"
+publication: "chapter in L. Carvalho and P. Goodyear (eds) The Architecture of Productive Learning Networks, Routledge"
 publication_short: ""
 
 abstract: ""

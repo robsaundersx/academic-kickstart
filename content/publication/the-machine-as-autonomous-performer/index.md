@@ -16,7 +16,7 @@ publishDate: 2019-05-31T23:02:56+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Interactive Experience in the Digital Age. Evaluating New Art Practice, Springer Series on Cultural Computing"
+publication: "chapter in L. Candy and S. Ferguson (eds) Interactive Experience in the Digital Age. Evaluating New Art Practice, Springer Series on Cultural Computing, pp. 75–90"
 publication_short: ""
 
 abstract: ""
