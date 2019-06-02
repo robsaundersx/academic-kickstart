@@ -17,9 +17,9 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "in F. Di'an and Z. Ga (eds) *thingworld: International
-Triennial of New Media Art*, published by NAMOC and The Liverpool University Press, ISBN: 978-1781381458"
+Triennial of New Media Art* (Exhibition Catalogue), published by NAMOC and The Liverpool University Press, ISBN: 978-1781381458"
 publication_short: "*thingworld: International
-Triennial of New Media Art*"
+Triennial of New Media Art* (Exhibition Catalogue), NAMOC"
 
 abstract: "As a triennial, international new media art exhibition is a brand academic program of National Art Museum of China, providing a prominent platform for a global presentation and theorization of cutting edge media artwork and state of development of art and technology under new cultural context. As the first art museum in the world to take \"new media art\" into its academic study and have successfully hosted triennials, National Art Museum of China has received extensive public attention, particularly from young audience since its first show in 2008. These triennials not only receive good reputation from academic world at home and abroad but also become an important cultural event being looked forward to by the public every 3 years. The triennial, which consists of 3 parts: Monologue-Ding an Sich, Dialogue-Dint to Thing, Ensemble-Parliament of Things, presents relationships between diversified living conditions and life, human and natural things, things and things from multiple dimensions. Through the exhibition, viewers can not only enter microscopic organisms by simulation and experience living as a thing unto itself, but also enhance awareness to natural things and reality through understanding of artists’ creation motive and work style."
 
