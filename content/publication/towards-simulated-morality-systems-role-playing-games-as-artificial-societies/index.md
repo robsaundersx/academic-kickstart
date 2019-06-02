@@ -39,7 +39,7 @@ featured: false
 links:
 - name: Link
   url: http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220%2f0007496702440251
-  icon_pack: fab
+  icon_pack: fas
   icon: link
 
 url_pdf:
