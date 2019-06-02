@@ -46,7 +46,7 @@ links:
 - name: Buy
   url: https://www.amazon.com/thingworld-International-Triennial-New-Media/dp/1781381453
   icon_pack: fab
-  icon: fa-amazon
+  icon: amazon
 
 url_pdf:
 url_code:
