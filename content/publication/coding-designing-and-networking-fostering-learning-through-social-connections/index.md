@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Evaluation of Seismic Design Values in the Taiwan Building Code by Using Artificial Neural Network"
-authors: [T. Kerh, J.S. Lai, D. Gunaratnum, Rob Saunders]
-date: 2008-01-01
+title: "Coding, Designing and Networking: Fostering Learning Through Social Connections"
+authors: [Lucila Carvalho, Rob Saunders]
+date: 2018-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-06-01T12:02:55+01:00
+publishDate: 2019-06-02T12:18:02+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-06-01T12:02:55+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer Modelling in Engineering and Sciences*, Vol. 26, No. 1"
+publication: "*Research in Learning Technology*, **26**"
 publication_short: ""
 
 abstract: ""
