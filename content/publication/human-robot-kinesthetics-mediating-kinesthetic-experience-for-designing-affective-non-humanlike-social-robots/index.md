@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 27th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2018, Nanjing, China, 27–31 August 2018"
 publication_short: "Proc. of the 27th IEEE Int. Conf. on Robot and Human Interactive Communication (RO-MAN) 2018"
 
-abstract: ""
+abstract: "This paper investigates how a non-humanlike, abstract robot can develop a social presence based on its capacity to move in delicate and dynamic ways. We outline our Performative Body Mapping (PBM) method for robot motion design and report on an audience study of our first robot prototype. These early results indicate support for our hypothesis that movement quality can imbue a robot with a distinct sense of affective agency, without the need for a humanlike or pet-like appearance. The paper embeds these accounts in an exploration of the connections between dance, motion design and knowledge translation along a trajectory of kinesthetic experience."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 9th International Conference on Computational Creativity (ICCC 2018), 25–29 June, Salamanca, Spain, 272–279"
 publication_short: "Proc. 9th Int. Conf. on Computational Creativity (ICCC 2018)"
 
-abstract: ""
+abstract: "As the value of computer generated artefacts increases, we need to question how creative software will fit into human culture, both as creative collaborators and autonomously creative entities. We hypothesise that, in certain contexts where creative software has increased or total autonomy, lack of authenticity will be a major limiting factor for creative systems in the arts and possibly elsewhere. After explaining and motivating this hypothesis, we study notions of authenticity in the human context and use this to raise issues of computational authenticity. We propose a number of ways to address these issues, including influencing public perception of creative software, practical approaches to software recording and us- ing its life experiences, and employing alternative methodologies for building creative systems. We believe that identifying, exploring and addressing issues of authenticity will help to maximise the beneficial contributions that autonomously creative software can bring to society."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "*Proceedings of NIPS 2018 Workshop on Machine Learning for Creativity and Design*, Montreal, Canada"
 publication_short: "*Proc. of NIPS 2018 Workshop on Machine Learning for Creativity and Design*"
 
-abstract: ""
+abstract: "Performative Body Mapping is a method for harnessing the embodied expertise of dancers to inform the design, movement and behaviour of non-anthropomorphic social robots. The method simplifies the correspondence problem through the novel use of costumes that allow much of the difficult human-robot mapping to be delegated to dancers. A mixture density recurrent neural network has been used to model sequences captured during movement studies to create new dance sequences in the style of the dancers inhabiting a costume."
 
 # Summary. An optional shortened abstract.
 summary: ""
