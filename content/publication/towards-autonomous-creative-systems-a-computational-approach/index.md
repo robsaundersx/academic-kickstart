@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Cognitive Computation*, Special Issue on Computational Creativity, Intelligence and Autonomy, Springer-Verlag, Vol. 4, No. 3, 2012, pp 216–225"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper reviews the long-standing debate surrounding the nature of machine intelligence, autonomy and creativity and argues for an approach to devel- oping autonomous computational creativity that models personal motivations, social interactions and the evolution of domains. The implications of this argument on the types of cognitive processes that are required for the development of autonomous computational creativity are explored and a possible approach to achieving the goal is described. In particular, this paper describes the development of artificial creative systems composed of intrinsically motivated agents engaging in language games to interact with a shared social and cultural environment. The paper discusses the implications that this type of approach may have for the development of autonomous creative systems."
 
 # Summary. An optional shortened abstract.
 summary: ""
