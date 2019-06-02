@@ -16,10 +16,10 @@ publishDate: 2019-06-02T18:04:23+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 8th International Conference on Computational Creativity, 175–182"
+publication: "Proceedings of the 8th International Conference on Computational Creativity, Georgia Tech, USA, 175–182"
 publication_short: "Proc. 8th Int. Conf. on Computational Creativity, 175–182"
 
-abstract: ""
+abstract: "We introduce fluidic games, a type of casual creator that blends game play and game design. Fluidic games have a core of built-in games that anchor a space of de- sign possibilities around them, and encourage players to alternate between playing specific games and play- ing with the design space. Our Gamika Technology platform supports fluidic games on mobile devices, and we have thus far built three of them. In doing so, we have found that even for simple games, fluidic games require computational creativity support. This takes several forms intended to keep design sessions play- ful and fast-moving, including automated game design used as a form of brainstorming, mixed-initiative co- creative design to ease design-space navigation, and au- tomated game playing to evaluate game dynamics. Fi- nally, we have exhibited this fluidic-games concept in three distinct cultural settings: a series of rapid game jams lasting 1–2 hours each, an in-progress semester- long enrichment course with a local school, and an art installation that foregrounds an autonomous version of the system exploring a fluidic game on its own, at least if the audience will allow it to do so."
 
 # Summary. An optional shortened abstract.
 summary: ""
