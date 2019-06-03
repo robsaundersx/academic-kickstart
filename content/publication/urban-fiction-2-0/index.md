@@ -13,7 +13,8 @@ publishDate: 2019-06-02T13:21:10+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+# 9 = Exhibition catalogue
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Love Lace (Exhibition Catalogue), Powerhouse Museum, Sydney Research Projects, ISBN: 9781863171540"
