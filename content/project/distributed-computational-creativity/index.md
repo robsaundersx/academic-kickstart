@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Distributed Creative Systems"
-summary: ""
+title: "Distributed Computational Creativity"
+summary: "Modelling social creativity using multi-agent systems."
 authors: []
 tags: []
 categories: []
