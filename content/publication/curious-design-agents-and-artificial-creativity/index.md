@@ -28,7 +28,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 draft: false
 
 # Custom links (optional).
