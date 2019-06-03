@@ -3,7 +3,7 @@
 
 title: "Enabling New Forms of Agency Using Wearable Environments"
 authors: [A. Baki Kocaballi, Petra Gemeinboeck, Rob Saunders]
-date: 2019-06-03T01:21:24+01:00
+date: 2010-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
