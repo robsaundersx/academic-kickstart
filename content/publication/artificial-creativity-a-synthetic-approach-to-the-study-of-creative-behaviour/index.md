@@ -3,7 +3,7 @@
 
 title: "Artificial Creativity: A Synthetic Approach to the Study of Creative Behaviour"
 authors: []
-date: 2019-06-03T02:06:35+01:00
+date: 2001-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: 2019-06-03T02:06:35+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Proceedings of Computational and Cognitive Models of Creative Design V, Key Centre of Design Computing and Cognition, University of Sydney, Sydney, pages 113--139"
+publication_short: "Proc. Computational and Cognitive Models of Creative Design V, 113--139"
 
 abstract: ""
 
