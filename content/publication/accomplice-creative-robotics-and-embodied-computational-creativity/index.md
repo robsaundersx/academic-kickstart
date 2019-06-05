@@ -36,6 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Link
+  url: http://doc.gold.ac.uk/aisb50/AISB50-S04/AISB50-S4-Saunders-paper.pdf
+  icon_pack: fas
+  icon: link
+
 url_pdf:
 url_code:
 url_dataset:

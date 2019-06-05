@@ -3,8 +3,8 @@
 
 title: "Coding, Designing and Networking: Fostering Learning Through Social Connections"
 authors: [Lucila Carvalho, Rob Saunders]
-date: 2018-01-01
-doi: ""
+date: 2018-04-03
+doi: "10.25304/rlt.v26.2006"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-02T12:18:02+01:00
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Research in Learning Technology*, **26**"
 publication_short: ""
 
-abstract: ""
+abstract: "Trends in digital technologies and new social practices are calling for innovative models of learning in education. A recent development in the learning sciences, which conceptualises learning activity as networked learning, can offer deeper insight into how digital learning spaces influence the ensuing activity of learners. The networked approach coupled with social semiotics is applied in the analysis of Peep – a computer-based platform with social networking features that supports an undergraduate design course. This article illustrates how the networked learning approach and social semiotics reveal elements of the platform that enable design learning and foster social connections amongst students and lecturers. The article also examines the distribution of students’ activity and changes in their patterns of interaction over time."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,12 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Link
+  url: https://journal.alt.ac.uk/index.php/rlt/article/view/2006
+  icon_pack: fas
+  icon: link
 
 url_pdf:
 url_code:

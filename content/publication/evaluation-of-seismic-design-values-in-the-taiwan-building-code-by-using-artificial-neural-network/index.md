@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Evaluation of Seismic Design Values in the Taiwan Building Code by Using Artificial Neural Network"
-authors: [T. Kerh, J.S. Lai, D. Gunaratnum, Rob Saunders]
+authors: [Tienfuan Kerh, J.S. Lai, D. Gunaratnum, Rob Saunders]
 date: 2008-01-01
 doi: ""
 

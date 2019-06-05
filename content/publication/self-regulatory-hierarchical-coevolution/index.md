@@ -4,7 +4,7 @@
 title: "Self-Regulatory Hierarchical Coevolution"
 authors: [Michael Rosenman, Rob Saunders]
 date: 2003-01-01
-doi: ""
+doi: "10.1017/S089006040317401X"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-01T12:06:07+01:00
@@ -35,6 +35,12 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Link
+  url: https://www.cambridge.org/core/journals/ai-edam/article/selfregulatory-hierarchical-coevolution/81914FD26BAF3BB12201914D59DBFC0C
+  icon_pack: fas
+  icon: link
 
 url_pdf:
 url_code:

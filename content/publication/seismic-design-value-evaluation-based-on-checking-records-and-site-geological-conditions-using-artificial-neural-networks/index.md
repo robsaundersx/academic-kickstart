@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Seismic Design Value Evaluation Based on Checking Records and Site Geological Conditions Using Artificial Neural Networks"
-authors: [T. Kerh, Y.T. Lin, Rob Saunders]
+authors: [Tienfuan Kerh, Yutang Lin, Rob Saunders]
 date: 2013-01-01
-doi: ""
+doi: "10.1155/2013/242941"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-01T11:53:45+01:00
@@ -35,6 +35,12 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: Link
+  url: https://www.hindawi.com/journals/aaa/2013/242941/
+  icon_pack: fas
+  icon: link
 
 url_pdf:
 url_code:

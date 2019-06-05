@@ -36,6 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Link
+  url: https://www.routledge.com/The-Architecture-of-Productive-Learning-Networks-1st-Edition/Carvalho-Goodyear/p/book/9780415816564
+  icon_pack: fas
+  icon: link
+
 url_pdf:
 url_code:
 url_dataset:

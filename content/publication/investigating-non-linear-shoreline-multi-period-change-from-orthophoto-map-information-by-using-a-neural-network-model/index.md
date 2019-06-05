@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Investigating Non-linear Shoreline Multi-period Change from Orthophoto Map Information by Using a Neural Network Model"
-authors: [T. Kerh, H. Lu, Rob Saunders]
+authors: [Tienfuan Kerh, Hsienchang Lu, Rob Saunders]
 date: 2014-01-01
 doi: ""
 

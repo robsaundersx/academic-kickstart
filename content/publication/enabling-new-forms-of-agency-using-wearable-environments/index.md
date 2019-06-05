@@ -36,6 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Link
+  url: https://dl.acm.org/citation.cfm?id=1858216
+  icon_pack: fas
+  icon: link
+
 url_pdf:
 url_code:
 url_dataset:

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Towards Socializing Non-anthropomorphic Robots by Harnessing Dancers' Kinesthetic Awareness"
-authors: []
+authors: [Petra Gemeinboeck, Rob Saunders]
 date: 2016-01-01
 doi: ""
 

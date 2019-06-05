@@ -36,6 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: Link
+  url: https://sup-estore.sydney.edu.au/jspcart/cart/Product.jsp?nID=868&nCategoryID=23
+  icon_pack: fas
+  icon: link
+
 url_pdf:
 url_code:
 url_dataset:

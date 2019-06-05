@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hierarchical Co Evolution for Non Routine Design"
+title: "Hierarchical Co-evolution for Non-routine Design"
 authors: [Michael A. Rosenman, Rob Saunders]
 date: 2003-01-01
 doi: ""

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Shoreline Change Estimation from Survey Image Coordinates and Neural Network Approximation"
-authors: [T. Kerh, H. Lu, Rob Saunders]
+authors: [Tienfuan Kerh, Hsienchang Lu, Rob Saunders]
 date: 2014-01-01
 doi: ""
 
