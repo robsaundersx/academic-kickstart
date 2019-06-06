@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Artificial Creative Systems: Completing the Creative Cycle"
-authors: []
+authors: [Rob Saunders]
 date: 2009-01-01
 doi: ""
 

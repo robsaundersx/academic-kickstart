@@ -3,7 +3,7 @@
 
 title: "Creative Robotics"
 summary: ""
-authors: []
+authors: [Petra Gemeinboeck, Rob Saunders]
 tags: []
 categories: []
 date: 2019-06-03T02:43:31+01:00

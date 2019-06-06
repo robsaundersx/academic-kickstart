@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Learning Models for a Curious Place"
-authors: []
+authors: [Kathryn Merrick, Mary Lou Maher, Rob Saunders]
 date: 2007-01-01
 doi: ""
 

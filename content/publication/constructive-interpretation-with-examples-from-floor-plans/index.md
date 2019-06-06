@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Constructive Interpretation with Examples from Floor Plans"
-authors: []
+authors: [Nick Kelly, John S. Gero, Rob Saunders]
 date: 2011-01-01
 doi: ""
 

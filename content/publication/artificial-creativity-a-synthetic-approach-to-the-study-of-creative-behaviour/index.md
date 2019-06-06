@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Artificial Creativity: A Synthetic Approach to the Study of Creative Behaviour"
-authors: []
+authors: [Rob Saunders]
 date: 2001-01-01
 doi: ""
 

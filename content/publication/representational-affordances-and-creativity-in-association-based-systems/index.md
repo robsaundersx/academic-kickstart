@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Representational Affordances and Creativity in Association-based Systems"
-authors: []
+authors: [Kazjon Grace, John S. Gero, Rob Saunders]
 date: 2012-01-01
 doi: ""
 

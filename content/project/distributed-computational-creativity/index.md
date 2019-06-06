@@ -3,7 +3,7 @@
 
 title: "Distributed Computational Creativity"
 summary: "Modelling social creativity using multi-agent systems composed of intrinsically motivated agents."
-authors: []
+authors: [Rob Saunders]
 tags: []
 categories: []
 date: 2019-06-03T02:49:07+01:00
