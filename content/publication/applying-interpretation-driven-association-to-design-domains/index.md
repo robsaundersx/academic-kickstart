@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of CAADRIA 2011, Hong Kong, pages 453--462"
 publication_short: "Proc. CAADRIA 2011, 453--462"
 
-abstract: ""
+abstract: "This paper presents a computational model of visual association-making. Our model focuses on the interaction between the processes of representation and matching in association. Re-interpretation of the objects being associated changes the landscape in which the matching process is searching for potential mappings between those objects. We call this process interpretation-driven search. We demonstrate the capabilities of our system through some examples of previous work in simple shape domains, then discuss ongoing research into applying this system to design domains."
 
 # Summary. An optional shortened abstract.
 summary: ""

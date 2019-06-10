@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Participatory Innovation Conference PIN-C2012, Melbourne"
 publication_short: ""
 
-abstract: ""
+abstract: "Our research aims to develop an approach to technology design that will support relational nature of human agency, i.e. the human capacity for action. To this end, we developed six design qualities to be integrated into design process. In this paper, we report on two exploratory design workshops, in which we aimed to promote one of these qualities, multiplicity. In addition, the focus of the workshops was upon various forms of togetherness between humans and technologies. The two workshops involved various activities in which participants could create connections with other participants, various materials and technologies. We explain the very different ways in which different sets of participants translated our design inscriptions in each workshop. We discuss three important effects that we observed: transformation of workshop space, enactments of technology, and distrust of design process."
 
 # Summary. An optional shortened abstract.
 summary: ""

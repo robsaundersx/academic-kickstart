@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 19th International Symposium of Electronic Art (ISEA 2013), Sydney"
 publication_short: "Proc. 19th Int. Symposium of Electronic Art (ISEA 2013)"
 
-abstract: ""
+abstract: "The article reports on a participatory workshop in which, we were faced with two different types of resistance. We employ the notion of scripts to describe how this resistance emerged. On the one hand, we explain how a weak script caused distrust of the workshop rationale, while on the other, we explain how a strong script rendered the technological materials of the workshop useless and led to termination of the activity. We suggest that structuring workshops according to the notion of scripts may prove a useful way of exercising and learning from resistance and expanding our territory of exploration."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of CAADRIA 2008, Pimniyom Press, Chiang Mai, Thailand, pages 153--160"
 publication_short: "Proc. CAADRIA 2008, 153--160"
 
-abstract: ""
+abstract: "This paper presents a model of computational analogy-making in designing based on the notion of situated similarity. Situated similarity is the idea that the relationship between two concepts is dependent not only on what the agent knows about those concepts but also on the way the agent is looking at them. Analogy-making is modelled as three interacting processes: formulation, matching and mapping. The model is developed and then its implications for developing situated analogy-making systems in design are discussed."
 
 # Summary. An optional shortened abstract.
 summary: ""

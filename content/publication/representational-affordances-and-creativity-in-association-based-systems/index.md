@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 3rd International Conference on Computational Creativity, Ireland, pages 195--202"
 publication_short: "Proc. 3rd Int. Conf. on Computational Creativity, 195--202"
 
-abstract: ""
+abstract: "This paper describes ongoing research into association-based computational creative systems. The necessary components for developing association-based creative systems are outlined, and the challenges in measuring the creativity of such a system are discussed. An approach to operationalising creativity metrics for association-based systems based on representational affordances is described. This approach is then demonstrated through an analysis of results produced by a system for constructing associations between visual designs."
 
 # Summary. An optional shortened abstract.
 summary: ""

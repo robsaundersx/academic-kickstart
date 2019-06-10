@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 4th International Conference on Computational Creativity, Sydney, pages 113--117"
 publication_short: "Proc. 4th Int. Conf. on Computational Creativity, 113–117"
 
-abstract: ""
+abstract: "This paper discusses a method, implemented in the domain of computational association, by which computational creative systems could learn from their previous experiences and apply them to influence their future behaviour, even on creative problems that differ significantly from those encountered before. The approach is based on learning ways that problems can be reinterpreted. These interpretations may then be applicable to other problems in ways that specific solutions or object knowledge may not. We demonstrate a simple proof-of-concept of this approach in the domain of simple visual association, and discuss how and why this behaviour could be integrated into other creative systems."
 
 # Summary. An optional shortened abstract.
 summary: ""

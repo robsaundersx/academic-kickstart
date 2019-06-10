@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "AAAI Spring Symposium on Creative Intelligent Systems, Stanford University"
 publication_short: ""
 
-abstract: ""
+abstract: "Creativity is often associated with surprise, novelty, usefulness and value. These characteristics do not assist in the development of a model for intelligent systems to achieve creative behaviour, since they are characteristics that help identify when something or someone has been creative, as post-facto evaluation. Rather, models of creative behaviour for intelligent systems draw on process models such as analogical reasoning and induction, or on principles such as “make the familiar strange” or “make the strange familiar”. This paper describes how a computational model of curiosity, based on cognitive models of novelty and interest, can be used to focus attention in learning agents. We show how this combination of curiosity and learning can be the core reasoning process in agent-based systems that achieve creative behaviour."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

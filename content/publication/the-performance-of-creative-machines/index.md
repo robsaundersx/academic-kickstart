@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "in J.T.K.V. Koh, B.J. Dunstan, D. Silvera-Tawil and M. Velonaki (eds) *Cultural Robotics: First International Workshop, CR 2015, IEEE RO-MAN 2015, Kobe, Japan, August 31, 2015. Revised Selected Papers*, Vol. 9549 of LNAI, Springer, 159-172"
 publication_short: ""
 
-abstract: ""
+abstract: "Cybernetic and robotic agents have long played an instrumental role in the production of ‘machine creativity’ as a cultural discourse. This paper traces the cultural legacy of the performance of automata and discusses historical and contemporary works to explore machine creativity as a cultural, bodily practice. Creative machines are explored as performers, capable to expand the script they are given by their human creator and skillful in bidding for the audience’s attention."
 
 # Summary. An optional shortened abstract.
 summary: ""

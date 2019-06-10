@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Beyond Codes and Pixels: CAADRIA 2012, CAADRIA, Hong Kong, pages 37--46"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper presents the application of a computational model of association to the domain of real-world ornamental designs. The driving principle of the model, interpretation-driven association, is discussed with respect to its suitability to design applications. An implementation of the model is presented, in which associations are constructed based on topological and typological relationships within each design's structure, rather than based on literal similarities. Results are presented which demonstrate that the implementation and the model from which it was derived are capable of associating between real-world design objects."
 
 # Summary. An optional shortened abstract.
 summary: ""

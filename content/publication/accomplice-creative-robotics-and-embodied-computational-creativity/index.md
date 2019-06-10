@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "50th Annual Convention of the Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB 2014), London"
 publication_short: ""
 
-abstract: ""
+abstract: "The invention of automata has a long tradition as an experimental method for philosophical enquiry into the nature of creativity. Since the 1950s, cybernetic and robotic art practices have continued this tradition, playfully engaging the public in questions of autonomy, agency and creativity. In this paper, we explore the potential of bringing together work in the fields of computational creativity and robotic art. We present our latest exploration of this potential with the development of Accomplice, a large-scale, multi-agent, robotic artwork embedded into the walls of a gallery and embodying a computational model of creative exploration. The installation transforms the traditional relationship between the audience and artwork such that visitors to the space become performers for the machine. We argue that both fields can benefit from this alignment; permitting the development of significantly new modes of interaction for robotic artworks, and opening up computational models of creativity to rich social and cultural environments through interaction with audiences."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: http://doc.gold.ac.uk/aisb50/AISB50-S04/AISB50-S4-Saunders-paper.pdf
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:
@@ -64,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

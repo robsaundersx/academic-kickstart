@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of Computational and Cognitive Models of Creative Design V, Key Centre of Design Computing and Cognition, University of Sydney, Sydney, pages 113--139"
 publication_short: "Proc. Computational and Cognitive Models of Creative Design V, 113--139"
 
-abstract: ""
+abstract: "We present a novel approach to the computational study of creativity, called Artificial Creativity. Artificial Creativity promotes the study of the creative behaviour of individuals and societies in artificial societies of agents. It is similar to the approach to that taken by Artificial Life researchers involved in developing computational models. We present a framework for developing Artificial Creativity systems as an adaptation of Liu’s dual generate-and-test model of creativity. An example implementation of an Artificial Creativity system is presented to illustrate the potential benefits of our new approach as a way of investigating the emergent nature of creativity in societies of communicating agents. Finally, we discuss some future research directions that are possible by extending the abilities of individuals and studying the emergent behaviour of societies."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

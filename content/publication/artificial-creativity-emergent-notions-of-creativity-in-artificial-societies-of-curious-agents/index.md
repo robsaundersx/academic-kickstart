@@ -19,7 +19,15 @@ publication_types: ["1"]
 publication: "A. Dorin and J. McCormack (eds.), Proceedings of Second Iteration, Melbourne"
 publication_short: "Proc. Second Iteration"
 
-abstract: ""
+abstract: "
+What is creativity? Generally, artefacts are labelled as creative if they are both novel and appropriate; individuals are regarded as creative if they produce creative works. More specific definitions of creativity vary greatly in the details of what makes someone or something creative. Some definitions require that creative products must be the result of some creative mental processes, effectively ruling out the possibility of computationally modelling creativity until these processes are understood. Many computational models of creativity have been developed to gain this understanding by simulating mental processes thought to play an important role in creative thinking.
+
+Other researchers consider the details of an individual’s creative process to be less important and consider the socio-cultural environment to have a significant effect on the production of creative works. Csikszentmihalyi proposed that the processes essential to creativity are not only to be found in the minds of creators but also in the interactions between individuals and their socio-cultural environment.
+
+
+The systems view of creativity proposed by Csikszentmihalyi echoes the views of researchers studying situated cognition in the fields of cognitive science, artificial intelligence and artificial life: emphasising the emergent nature of creativity as the result of the interactions between the components of a creative systems.
+
+To gain a better understanding of the emergent nature of creativity we have developed the artificial creativity approach to producing creative systems. The goal of artificial creativity is to simulate the interactions of agents within a creative system."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

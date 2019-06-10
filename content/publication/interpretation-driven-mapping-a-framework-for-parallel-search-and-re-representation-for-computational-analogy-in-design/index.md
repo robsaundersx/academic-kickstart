@@ -19,7 +19,9 @@ publication_types: ["2"]
 publication: "*Artificial Intelligence for Engineering Design, Analysis and Manufacturing (AIEDAM)*, Special Issue on Analogical Thinking, Cambridge University Press, Vol. 29, No. 2, May 2015, pp. 185–201"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper presents a framework for the interactions between the processes of mapping and re-representation within analogy-making. Analogical reasoning systems for use in design tasks require representations that are open to being reinterpreted. The framework, Interpretation Driven Mapping, casts the process of constructing an analogical relationship as requiring iterative, parallel interactions between mapping and interpreting. This paper argues that this interpretation-driven approach focusses research on a fundamental problem in analogy-making: how do the representations that make new mappings possible emerge during the mapping process? The framework is useful for both describing existing analogy-making models and designing future ones.
+
+The paper presents a computational model informed by the framework, Idiom, that learns ways to reinterpret the representations of objects as it maps between them. The results of an implementation in the domain of visual analogy are presented to demonstrate its feasibility. Analogies constructed by the system are presented as examples. The Interpretation Driven Mapping framework is then used to compare representational change in Idiom to that in three previously published systems."
 
 # Summary. An optional shortened abstract.
 summary: ""

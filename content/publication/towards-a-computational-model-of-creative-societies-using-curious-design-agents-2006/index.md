@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of Engineering Societies in the Agents World 2006 (ESAW’06), pages 18--31"
 publication_short: "Proc. Engineering Societies in the Agents World 2006 (ESAW’06), 18--31"
 
-abstract: ""
+abstract: "This paper present a novel approach to modelling creative societies using curious design agents. The importance of modelling the social aspects of creativity are first presented and a novel agent-based approach is developed. Curious design agents are introduced as an appropriate model of individuals in a creative society. Some of the advantages of using curious design agents to model creative societies are discussed. Results from some initial investigations into self-organisation within creative societies using the model are given. This paper concludes by discussing some related work and exploring possible directions for future work."
 
 # Summary. An optional shortened abstract.
 summary: ""

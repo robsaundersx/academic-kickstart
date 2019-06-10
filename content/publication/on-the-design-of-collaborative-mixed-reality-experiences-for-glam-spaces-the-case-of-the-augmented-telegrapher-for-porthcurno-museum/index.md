@@ -36,6 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: LINK
+  url: https://www.helsinki.fi/en/conferences/video-games-and-museums
+
 url_pdf:
 url_code:
 url_dataset:

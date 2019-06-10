@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in *Ecologies of Invention*, Sydney University Press, pp. 37–46"
 publication_short: ""
 
-abstract: ""
+abstract: "Human history is intertwined with the history of machines. According to some scholars, it is the drive to create machines that makes us unique (Mazlish 1993: 216), and many agree that human evolution began with the invention of tools (Landau, 1993:51, Brooks 2002:5; Taylor, 2010). It seems safe to say that we can think of human evolution only as a co-evolution of humans and machines. They allow us to control and even create our environment, have empowered us to dominate the world, and have become our mirror image in which to study ourselves. This co-evolution is the starting point, context, and experimental playground of our collaborative practice in art and technology. Rather than extending the debate on ‘The Singularity’ and whether machines will eventually dominate their human inventors, we're interested in the intermingling of the two, and the continuum between what we consider our human life and that of our machines. In a way, our source of inspiration is human inventiveness itself, and our motivation is to invent a reality for the two—humans and their creations—to encounter one another."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: https://sup-estore.sydney.edu.au/jspcart/cart/Product.jsp?nID=868&nCategoryID=23
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

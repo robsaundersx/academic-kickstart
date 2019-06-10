@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of Creativity and Cognition 2002, ACM Press, New York, NY, pages 80--87"
 publication_short: "Proc. Creativity and Cognition 2002, 80--87"
 
-abstract: ""
+abstract: "In this paper, we describe a novel approach to developing computational models of creativity that supports the multiple approaches to the study of artificial creative systems. The artificial creativity approach to the development of computational models of creative systems is described with reference to Csikszentmihalyi’s systems view of creativity. Some interesting results from studies using an early implementation of an artificially creative system, The Digital Clockwork Muse, are presented. The different studies show how the artificial creativity approach supports the study of creativity from a variety of standpoints that mirror the disciplines that study human creativity. The use of artificial creativity allows these different studies to be conveniently conducted on the same computational model and integrated in to a more complete picture of the creative process."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

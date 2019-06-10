@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "MCPC 2009, Helsinki, Finland"
 publication_short: "MCPC 2009, Helsinki, Finland"
 
-abstract: ""
+abstract: "This paper explores the customisation as a design problem-solving task for customers in mass customisation (MC). In a typical MC system, customers use provided tools to customise their chosen product. We applied Goel’s cognitive method for assessing design problem solving tasks to compare the customisation with design and found a high degree of similarity. Customers who attempt to tackle these designerly tasks will typically have little or no design education. Consequently, we tend to consider the customer’s lack of design experience a forgotten cause of confusion in customer-system interactions. Using the routine/non-routine design classification, we propose a taxonomic framework to classify different roles that a mass customisation system could assign to its customers. Further we use Gero’s Function-Behaviour-Structure model to explain the proposed framework and analyse the processes inside each customisation session. We believe the proposed framework provides guiding principles to support proper design processes within customisation as an effective way of minimise confusion and improve customers’ experience. This is the focus of our future research in designerly ways of customisation."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Digital Creativity*, Taylor & Francis, Vol. 22, No. 3, 2011, pp. 160–173"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper critically examines the mapmaking practices of locative art and explores its potential to produce alternative maps that respond to the spatial and social multiplicity of our urban fabric. Starting from a critique of traditional cartographic practice and how locative art shares its Cartesian anchorage and technological lenses, we investigate the conceptual challenges, methodological issues and technological constraints related to entangling geographic locations and social dynamics. We introduce our locative artworks Urban Fiction (2007) and Urban Fiction 2.0 (2011) that engage participants in corporeal negotiations of urban spaces to generate dynamic, fictional maps. Reflecting on these works allows us to examine the potential of locative media against a backdrop of technological advances and co-evolving social practices. Situated within postcolonial and feminist perspectives, we develop the notion of a ‘performative geography’ based on a generative mapping approach that understands maps as a dynamic process, rather than a fixed representation."
 
 # Summary. An optional shortened abstract.
 summary: ""

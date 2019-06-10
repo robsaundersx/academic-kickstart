@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 5th International Conference on Computational Creativity (ICCC 2014), Ljubljana, Slovenia"
 publication_short: "Proc. 5th Int. Conf. on Computational Creativity, Ljubljana, Slovenia"
 
-abstract: ""
+abstract: "The ambiguity of natural language can be an important source of creative concepts. In compositional languages, a many-to-many network of associations exists linking concepts by the polysemy and synonymy of utterances. This network allows utterances to represent the combination of concepts, forming new and potentially interesting compound meanings. At the same time, new experiences of external and internal contexts provide abundant materials for the evolution of language. This paper focuses on exploring the role of compositional language for social creativity through the simulation of language games running on multi-agent systems using a hedonic function to evaluate the interest of utterances as design requirements and the resulting design works."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

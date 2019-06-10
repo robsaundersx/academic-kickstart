@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 23rd Australian Computer-Human Interaction Conference: Design, Culture and Interaction (OzCHI 2011), Sydney"
 publication_short: "Proc. 23rd Australian Computer-Human Interaction Conference: Design, Culture and Interaction (OzCHI 2011)"
 
-abstract: ""
+abstract: "We report on a participatory design workshop, which consisted of diverse activities in which participants explored the concept of “connectedness” in various ways. The aim of the workshop was to facilitate multiplicity as a generative strategy to be used in early phases of design. In this position paper, we focus on the machine-mediated performance session of the workshop, in which participants extensively used their bodies to explore ways to couple with technological tools, their partners and the space. The aim of the performance session was to facilitate multiplicity in couplings between body, technology and space. We analysed the activities according to a coding scheme involving Laban’s effort categories. We explain how the various forms of connection between bodies and different technological tools were constructed in each activity. We discuss how connectivity of technology can be used to support multiplicity in design."
 
 # Summary. An optional shortened abstract.
 summary: ""

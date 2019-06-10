@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Zwischenräume: The Machine as Voyeur"
+title: "Zwischenraume: The Machine as Voyeur"
 authors: [Petra Gemeinboeck, Rob Saunders]
 date: 2011-01-01
 doi: ""
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the First International Conference on Transdisciplinary Imaging at the Intersections between Art, Science and Culture (TIC 2010), Sydney, pages 62--70"
 publication_short: "Proc. 1st Int. Conf. on Transdisciplinary Imaging at the Intersections between Art, Science and Culture (TIC 2010), 62--70"
 
-abstract: ""
+abstract: "As you enter the empty gallery, you are aware of the presence of another, something moving behind one of the walls, a low rumbling, and you think you hear knocking. As you walk towards the wall, the knocking gets faster, and from behind you more knocking but with a different rhythm – like some form of secret code. You turn around in time to see the wall bulge and crack. A hole opens up and you catch a glimpse of a hammer. With every knock the hole gets bigger, blasting out small chunks of wall. You move backwards, your eyes locked on the growing hole – a light shines through, and at its centre you can make out the lens of a camera. You stop. The searchlight sweeps around and meets your gaze. It has seen you, and now it darts off to the side of the hole, as if it is hiding. The wall knocks again, softly this time, three quick taps. The wall behind you responds and then begins to crumble..."
 
 # Summary. An optional shortened abstract.
 summary: ""

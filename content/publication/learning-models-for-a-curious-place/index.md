@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the Computer Aided Architectural Design Research in Asia 2007 (CAADRIA 2007), Nanjing, China, pages 179--184"
 publication_short: "Proc. CAADRIA 2007, 179--184"
 
-abstract: ""
+abstract: "A Curious Place is modelled on the concept of an intelligent room, with an added capacity for behaving in a curious manner. Intelligent rooms are responsive physical spaces in which human activities are monitored and responses generated which facilitate or augment these activities. Recent trends in intelligent agent research towards intrinsically motivated learning agents allow physical places to respond with curiosity and exhibit adaptive learning behaviour. This paper presents learning models for curious places for modelling curiosity, curious agents, and curious agent societies. These models are demonstrated with reference to a Curious Research Space as an example of a Curious Place."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

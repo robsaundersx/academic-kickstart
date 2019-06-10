@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "F. Pachet, A. Cardoso, V. Corruble, F. Ghedini (Eds), Proceedings of the Seventh International Conference on Computational Creativity (ICCC 2016), June 27--July 1, Paris, France. Sony CSL Paris, France, ISBN 9782746691551. Pages 9--16"
 publication_short: "Proc. 7th Int. Conf. Comp. Creativity, 9--16"
 
-abstract: ""
+abstract: "There has been a strong tendency in distributed computational creativity systems to embrace embodied and situated agents for their flexible and adaptive behaviour. Intrinsically motivated agents are particularly successful in this respect, because they do not rely on externally specified goals, and can thus react flexibly to changes in open-ended environments. While supportive and antagonistic behaviour is omnipresent when people interact in creative tasks, existing implementations cannot establish such behaviour without constraining their agents’ flexibility by means of explicitly specified interaction rules. More open approaches in contrast cannot guarantee that support or antagonistic behaviour ever comes about. We define the information-theoretic principle of coupled empowerment maximisation as an intrinsically motivated frame for supportive and antagonistic behaviour within which agents can interact with maximum flexibility. We provide an intuition and a formalisation for an arbitrary number of agents. We then draw on several case-studies of co-creative and social creativity systems to make detailed predictions of the potential effect the underlying empowerment maximisation principle might have on the behaviour of creative agents."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: http://www.computationalcreativity.net/iccc2016/proceedings-2016/
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:
@@ -64,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

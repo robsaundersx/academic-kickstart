@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in D. Reinhardt, R. Saunders and J. Burry (eds) *Robotic Fabrication in Architecture, Art and Design 2016*, Springer, pp. 411–426"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper examines the potential for creative practitioners to adopt robotic fabrication processes augmented with the introduction of sensors. Typically, the outcomes of a fabrication process are predetermined, however, with the introduction of sensors, design and fabrication process may be interrupted by real-time feedback. In such a system, design roles and authorship become secondary to the process of manipulating data, such that new rules of design can be introduced and developed in response to materials. Hardware and software such as Arduino, Grasshopper3D, Rhinoceros3D and Processing have opened up new strategies of hacking, coding and robotic manipulation that can be embedded in robotic fabrication processes. The addition of sensors provides feedback about material location and characteristics, work environment and co-workers, so as to support architectural dialogue. This paper proposes a framework for designing new protocols for human interaction and machine response in robotic fabrication systems."
 
 # Summary. An optional shortened abstract.
 summary: ""

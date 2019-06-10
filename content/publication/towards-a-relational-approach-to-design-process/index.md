@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 45th Conference of the Architectural Science Association, ANZAScA 2011, Sydney"
 publication_short: "Proc. 45th Conf. Architectural Science Association, ANZAScA 2011"
 
-abstract: ""
+abstract: "This research aims to develop an approach to technology design that will support relational nature of human agency, i.e. the human capacity for action. Supporting relationality requires a different approach from the ways in which we have hitherto performed design practice. Rather than trying to control, predict or prescribe actions and relations of users, designers may design for actions more emergent and relations more fluid. In this paper, we suggest six qualities to characterize a more relational design approach referred to as Agency Sensitive Design (ASD): relationality, visibility, multiplicity, accountability, duality and configurability. We demonstrate how recent design cases and approaches in the broad field of interaction design deal with the relational character of human agency. We conclude with some possible ways of employing ASD qualities in the field of architecture. Although our study focuses on design cases drawn from interaction design field mostly, we nonetheless see broader relevance to other design domains."
 
 # Summary. An optional shortened abstract.
 summary: ""

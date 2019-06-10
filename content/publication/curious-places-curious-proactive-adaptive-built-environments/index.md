@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the AISB'07 Symposium on Agent Societies for Ambient Intelligence, Newcastle"
 publication_short: "Proc. AISB'07 Symposium on Agent Societies for Ambient Intelligence, Newcastle"
 
-abstract: ""
+abstract: "Advances in intelligent agent research, such as curious agents and motivated learning agents, make possible a new kind of intelligent environment: a curious place. Previously, intelligent environment research has focused on developing reactive and interactive systems that control sensor and effector architectures, achieve context awareness and support human activities. This paper identifies the key attributes of curious places that differentiate them from existing intelligent environments and proposes new focus areas for intelligent environment research: proactive problem finding, life-long adaptability and enhancement of human activities. An example of a curious place application is discussed with emphasis on its adaptability and its potential to enhance human experiences."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

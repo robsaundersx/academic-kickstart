@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Designing Interactive Systems (DIS) 2010, Aarhus"
 publication_short: ""
 
-abstract: ""
+abstract: "Technological artefacts can mediate the relations between humans and the environment: mediation changes our agency, which can be defined as our capacity for action. There can be different types of technological mediation and each type shapes our agency differently. Our model of wearable environments, which combines wearable computing and smart environment approaches, is useful for exploring new types of relations and, by extension, new forms of agency. In this paper, we present the first stage of developing a wearable environment system involving a series of workshops using two prototype devices. We evaluated the workshop activities according to a post-phenomenological account: this has allowed us to analyse the transformation of machine-mediated agency vis-à-vis two dimensions: perception and praxis. Our findings showed that interpretations of sonic and tactile feedback were highly dependent upon the placement of the sensing and effecting capacities of the system."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: https://dl.acm.org/citation.cfm?id=1858216
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

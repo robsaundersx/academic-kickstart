@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the International Conference on Computational Creativity 2010 (ICCC 2010), Lisbon, Portugal"
 publication_short: "Proc. Int. Conf. on Computational Creativity 2010 (ICCC 2010)"
 
-abstract: ""
+abstract: "Creativity, whether or not it is computational, doesn’t occur in a vacuum, it is a situated, embodied activity that is connected with cultural, social, personal and physical contexts. Artificial creative systems are computational models that attempt to capture personal, social and cultural aspects of human creativity. The physical embodiment of artificial creative systems presents significant challenges and opportunities. This paper introduces the “Curious Whispers” project, an attempt to embody an artificial creative system as a collection of autonomous mobile robots that communicate through simple “songs”. The challenges of developing an autonomous robotic platform suitable for constructing artificial creative systems are discussed. We conclude by examining some of the opportunities of this embodied approach to computational creativity."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [distributed-computational-creativity, embodied-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

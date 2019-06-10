@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "in T. Veale and F.A. Cardosa (eds) *Readings in Computational Creativity*, Springer"
 publication_short: ""
 
-abstract: ""
+abstract: "This chapter provides an introduction to the computational modelling of social creativity using multi-agent systems. It reviews motivations for computationally modelling socio-cultural aspects of creativity and describes a systems view of creativity that has influenced approaches to computationally modelling social creativity. A minimal model of an ‘artificial creative system’ is described and the components of an individual agent are given in some detail. The Digital Clockwork Muse is presented as an implementation of an artificial creative system together with some results from some small scale investigations into the self-organisation of creative fields. Extensions of the computational model are described, including the evolution of domain specific languages, more sophisticated individuals and alternative models of inter-agent interactions."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

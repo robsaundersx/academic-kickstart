@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "in J.T.K.V. Koh, B.J. Dunstan, D. Silvera-Tawil and M. Velonaki (eds) *Cultural Robotics: First International Workshop, CR 2015, Held as Part of IEEE RO-MAN 2015, Kobe, Japan, August 31, 2015. Revised Selected Papers*, Vol. 9549 of LNAI, Springer, 85–97"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper discusses a novel approach towards socializing non-anthropomorphic robots, which harnesses the expert knowledge of dancers to develop abstract robot morphologies and their capacity to move in affective and expressive ways. We argue that movement offers a key to socializing non-anthropomorphic robots. Our Performative Body Mapping (PBM) method investigates the possibility of using human movement experts to teach non-humanlike robots to move and interact. The paper outlines the conceptual framework of PBM and discusses an ongoing pilot study that engages professional dancers to study the relationship between abstract, simple morphologies and their potential to move in expressive, socially encoded ways."
 
 # Summary. An optional shortened abstract.
 summary: ""

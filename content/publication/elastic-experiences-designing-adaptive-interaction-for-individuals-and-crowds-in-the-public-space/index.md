@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 23rd Australian Computer-Human Interaction Conference (OzCHI'11), ACM, New York, pages 148--151"
 publication_short: "Proc. 23rd Australian Computer-Human Interaction Conference (OzCHI'11), 148--151"
 
-abstract: ""
+abstract: "This paper presents insights into the design process acquired during the implementation and evaluation of an interactive art installation for two very distinct public environments. Issues of scalability, robustness and performance became progressively interwoven with the concern of creating an overall user experience sustaining consistent high engagement levels. Contextual factors such as audience size, dimensions of the interactive space and length of exposure to the artwork had to be handled gracefully in order not to interfere with the interaction flow. Adopting a research by and through design approach, the work uncovered a series of findings that are pervasive to the design of adaptive interactive experiences."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -3,7 +3,7 @@
 
 title: "Agent-Based Modeling of Stem Cells"
 authors: [Mark d'Inverno, P. Howells, S. Montagna, Ingo Roeder, Rob Saunders]
-date: 2009-01-01
+date: 2009-06-03
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in *Multi-Agent Systems: Simulation and Applications*, Taylor and Francis Group, pp. 389–421"
 publication_short: ""
 
-abstract: ""
+abstract: "The multi-agent systems approach has become recognized as a useful approach for modeling and simulating biological complex systems. In this chapter we provide an example of such an approach, which concerns the modeling and simulation of the Hematopoietic Stem Cell (HSC) system in adults. We are specifically interested in how local cell interactions give rise to well understood properties of systems of stem cells, such as the ability to maintain their own population and to maintain a population of fully differentiated functional cells. There is a need to establish key cell mechanisms that can produce self-regulating behavior of HSC systems using different theoretical techniques. It is our belief that modeling the behavior of HSCs in the adult human body as an agent-based system is the most appropriate way of understanding these mechanisms and the consequent process of self-organization."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: LINK
+  url: https://www.crcpress.com/Multi-Agent-Systems-Simulation-and-Applications/Uhrmacher-Weyns/p/book/9781420070231
 
 url_pdf:
 url_code:

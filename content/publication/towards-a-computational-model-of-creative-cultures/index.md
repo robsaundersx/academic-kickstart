@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "AAAI Spring Symposium on Creative Intelligent Systems, Stanford University"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper examines the possibility for developing a computational model of creative systems that supports the evolution of language in creative cultures. First we present some previous work developing models of creative individuals and creative societies. The extension of these earlier models towards a model of creative cultures is discussed with particular emphasis on the modelling of the evolution of language in creative domains using “language games.” The model presented here extends the previous work with the potential for incorporating aspects of the cultural situation that affect the production, evaluation and adoption of creative works. We conclude with a discussion of the potential significance of developing language capable multi-agent systems for the modelling of creative cultures."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: http://doc.gold.ac.uk/aisb50/AISB50-S19/AISB50-S19-Gemeinboeck-paper.pdf
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

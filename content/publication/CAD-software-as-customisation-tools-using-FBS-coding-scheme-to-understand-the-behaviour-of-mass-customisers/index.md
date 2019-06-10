@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of CAADRIA 2011, Hong Kong, pages 399--408"
 publication_short: "Proc. CAADRIA 2011, 399--408"
 
-abstract: ""
+abstract: "This paper explores the use of CAD software as tools in mass customisation systems and discusses using protocol study methods to analyse the interactions between customers and customisation tools. Current uses of CAD software as customisation tools will be presented. The use of the Function-Behaviour-Structure coding scheme to analyse protocols from customisation sessions is discussed. A protocol from Puma footwear customisation is analysed using the LINKOgrapher software and the results presented. The paper concludes with a discussion on the utility of computational support tools to study designers/customers utilizing CAD tools for mass customisation."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Abstract and Applied Analysis*, Cairo, London & New York: Hindawi Publishing Corporation, Article ID 242941 (online), 12 pages"
 publication_short: ""
 
-abstract: ""
+abstract: "This study proposes an improved computational neural network model that uses three seismic parameters (i.e., local magnitude, epicentral distance, and epicenter depth) and two geological conditions (i.e., shear wave velocity and standard penetration test value) as the inputs for predicting peak ground acceleration—the key element for evaluating earthquake response. Initial comparison results show that a neural network model with three neurons in the hidden layer can achieve relatively better performance based on the evaluation index of correlation coefficient or mean square error. This study further develops a new weight-based neural network model for estimating peak ground acceleration at unchecked sites. Four locations identified to have higher estimated peak ground accelerations than that of the seismic design value in the 24 subdivision zones are investigated in Taiwan. Finally, this study develops a new equation for the relationship of horizontal peak ground acceleration and focal distance by the curve fitting method. This equation represents seismic characteristics in Taiwan region more reliably and reasonably. The results of this study provide an insight into this type of nonlinear problem, and the proposed method may be applicable to other areas of interest around the world."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: https://www.hindawi.com/journals/aaa/2013/242941/
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

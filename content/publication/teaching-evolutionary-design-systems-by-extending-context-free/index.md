@@ -4,7 +4,7 @@
 title: "Teaching Evolutionary Design Systems by Extending \"Context Free\""
 authors: [Rob Saunders, Kazjon Grace]
 date: 2009-01-01
-doi: ""
+doi: "10.1007/978-3-642-01129-0_67"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-01T11:09:49+01:00
@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in Applications of Evolutionary Computing, Vol. 5484 of LNCS, Springer, pp. 591–596"
 publication_short: ""
 
-abstract: ""
+abstract: "This document reports on a case study using a novel approach to teaching generative design systems. The approach extends Context Free, a popular design grammar for producing 2D imagery, to support parametric and evolutionary design. We present some of the challenges that design students have typically faced when learning about generative systems. We describe our solution to providing students with a progressive learning experience from design grammars, through parametric design, to evolutionary design. We conclude with a discussion of the benefits of our approach and some directions for future developments."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: LINK
+  url: https://link.springer.com/chapter/10.1007/978-3-642-01129-0_67
 
 url_pdf:
 url_code:

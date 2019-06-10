@@ -19,7 +19,11 @@ publication_types: ["2"]
 publication: "*Artificial Life*, Special Issue on Art, Creativity and Culture, MIT press, Vol. 21, No. 3, Summer 2015, pp. 366–378"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper reviews the development of computational models of creativity where social interactions are central. We refer to this area as ‘computational social creativity’. 
+
+The context surrounding computational social creativity is described, including: the broader study of creativity, the computational modelling of other social phenomena, and computational models of individual creativity. Computational modelling has been applied to a number of areas of social creativity and has the potential to make a contribution to our understanding of creativity. A number of requirements for computational models of social creativity are common in artificial life and computational social science simulations.
+
+Three key themes are identified: (1) computational social creativity research has a critical role to play in understanding creativity as a social phenomenon and advancing computational creativity by making clear epistemological contributions in ways that would be challenging for other approaches; (2) the methodologies developed in artificial life and computational social science carry over directly to computational social creativity; and, (3) the combination of computational social creativity with individual models of creativity present significant opportunities and pose interesting challenges for the development of integrated models of creativity that have yet to be realised."
 
 # Summary. An optional shortened abstract.
 summary: ""

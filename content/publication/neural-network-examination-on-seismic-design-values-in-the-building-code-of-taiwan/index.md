@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "International Conference on Computer Systems and Applications (AICCSA 2007), Amman, Jordan, IEEE, pages 781--785"
 publication_short: "Int. Conf. on Computer Systems and Applications (AICCSA 2007), 781--785"
 
-abstract: ""
+abstract: "The purpose of this study is to check the suitability of seismic design values in the current Taiwan building code by using the neural network (NN) method. The neural network model input parameters are magnitude, epicenter distance,, and focal depth for each of the records in the checking stations, and the output is peak ground acceleration (PGA). The neural network model estimations showed that for 5 out of the 24 locations considered in the region, the design value recommended in the building code would be exceeded. Additionally, a curve fitting model, PGA = 8.96 (Df) is developed for the relationship between horizontal PGA and focal distance (Df), and reflecting the essential characteristics of strong motion in the region investigated. The present neural network model and the mathematical equation can provide useful information for both the relevant government agencies and practicing engineering designers."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: LINK
+  url: https://ieeexplore.ieee.org/document/4231049
 
 url_pdf:
 url_code:

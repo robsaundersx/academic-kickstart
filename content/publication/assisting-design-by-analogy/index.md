@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 40th International ANZAScA Conference, Adelaide"
 publication_short: "Proc. 40th International ANZAScA Conference"
 
-abstract: ""
+abstract: "This paper describes research into situated analogy-making and its application to digital design assistants. It is claimed that computational design support systems that provide designers with conceptually distant but contextually appropriate information can assist in designers with the synthesis of creative designs. This claim is supported by an example application of situated analogy-making to architectural design, adapting a solarium using analogy. The potential advantages of analogical design assistants are discussed independently of implementation and a number of possible directions and challenges for future work in design by computational analogy are presented."
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -19,7 +19,9 @@ publication_types: ["1"]
 publication: "Future of Architectural Research: ARCC 2015 Conference, Chicago"
 publication_short: ""
 
-abstract: ""
+abstract: "The art of fabricating, making, crafting and the traditional sense of the stone mason has been diminishing due to dramatic changes in technology. The path of increasing complexity in formal stereotomy is causing the increased use of structural analysis influencing current design. This paper will look into past methods of stereotomic stone masonry construction techniques, and how new practitioners are utilizing stereotomy. Through case studies and historical precedents, methods in stereotomic analysis will be investigated, focusing on the machine generation of the arch.
+
+The arch in its simplest form is the fundamental structure for spanning in unreinforced masonry and has the potential to be combined into many variations. The arch produces a line of thrust which is a theoretical line that represents the path of compressive forces through the structure; which can be used to design and analyze vaulted structures in masonry. The paper traces the change in the meaning of stereotomy, from geometric form finding to advanced static, construction analysis and production. It will survey past, present and emerging practitioners and investigate stereotomic methodology in the creation of vaulted spaces."
 
 # Summary. An optional shortened abstract.
 summary: ""

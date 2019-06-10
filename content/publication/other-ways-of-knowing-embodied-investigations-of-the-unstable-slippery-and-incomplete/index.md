@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*The Fibre Culture Journal*, Vol. 18, 2011: Trans, pp. 9–33"
 publication_short: ""
 
-abstract: ""
+abstract: "One of the most curious characteristics of computing processes and the medium of the digital is that they evoke, reinforce, produce and nourish two disparate positions of understanding us and the world: the reductionist, generalised and objective; and, the situated, partial and multiple. The first looks at and constructs the world in terms of what is known and can be described, while the latter embraces the unknown, uncertain and messy. Often, the two polarise along the border between objective knowledge, stripped of its body and deprived of our bodies, and situated knowledges, emerging from embodied processes and enacted, experienced or known in embodied ways. In this article, we will explore how the latter, the situated, indeterminable, always partial, is produced and made tangible by digital processes, and how these processes always unfold in—and rely on—embodied, specific and experiential conditions. As researchers, working across digital media, installation and computational creativity, we encounter, think, and experiment with these processes through our creative practice. Like Philip K. Dick, we, too, like to build realities that are unstable. The discussion will revolve around the specifics of four installations: two, so-called, virtual environments, Uzume and Maya–Veil of Illusion, and two robotic environments, On Track and Zwischenräume."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative-robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

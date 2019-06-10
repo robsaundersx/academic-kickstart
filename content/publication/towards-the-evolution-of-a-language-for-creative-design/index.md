@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 2012 IEEE Congress on Evolutionary Computation (CEC), Brisbane, 10–15 June 2012, pages 2778--2783"
 publication_short: "Proc. 2012 IEEE Congress on Evolutionary Computation (CEC), 2778--2783"
 
-abstract: ""
+abstract: "In order to improve the creativity of computer aided design, a grounded artificial language with creative properties such as ambiguity and duality of patterning need to be developed. Initially, before using artificial language for creative design, the possibility of transforming between artificial utterances and design concepts should be tested. In this paper, a hybrid system including Holographic Reduced Representations (HRR) and Self-Organizing Map (SOM) is built up to represent spatial relations of simple shapes, and develop mapping between the representations and relevant artificial utterances. The computational results have proved that the transformation between artificial language and design concepts can be realized; and the hybrid system could be utilized as an important part of the “brains” of curious agents for the evolution of artificial language in computational language games."
 
 # Summary. An optional shortened abstract.
 summary: ""

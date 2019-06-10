@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: "C. Blum (ed.) Proceeding of the Fifteenth Annual Conference on Genetic and Evolutionary Computation Conference (GECCO), 6–10 July 2013, Amsterdam, Netherlands, pp. 49–50"
 publication_short: ""
 
-abstract: ""
+abstract: "A visualisation method is presented for interactive evolution of interactive software objects, in which multiple outputs of the system are used to construct a two-dimensional shape in a feature space. The method allows multiple phenotypes to be overlaid allowing for quick feedback on the different properties of phenotypes. The properties of the resulting visualisations are discussed."
 
 # Summary. An optional shortened abstract.
 summary: ""

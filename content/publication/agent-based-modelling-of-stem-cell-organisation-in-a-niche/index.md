@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "in *Engineering Self-Organising Systems*, Vol. 3464 of LNAI, Springer, 52–68"
 publication_short: ""
 
-abstract: ""
+abstract: "The multi-agent systems approach has become recognized as a useful approach for modeling and simulating biological complex systems. In this chapter we provide an example of such an approach, which concerns the modeling and simulation of the Hematopoietic Stem Cell (HSC) system in adults. We are specifically interested in how local cell interactions give rise to well understood properties of systems of stem cells, such as the ability to maintain their own population and to maintain a population of fully differentiated functional cells. There is a need to establish key cell mechanisms that can produce self-regulating behavior of HSC systems using different theoretical techniques. It is our belief that modeling the behavior of HSCs in the adult human body as an agent-based system is the most appropriate way of understanding these mechanisms and the consequent process of self-organization."
 
 # Summary. An optional shortened abstract.
 summary: ""

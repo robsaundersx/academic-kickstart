@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Computer Modelling in Engineering and Sciences*, Vol. 26, No. 1"
 publication_short: ""
 
-abstract: ""
+abstract: "Taiwan frequently suffers from strong ground motion, and the current building code is essentially based on two seismic zones, A and B. The design value of horizontal acceleration for zone A is 0.33g, and the value for zone B is 0.23g. To check the suitability of these values, a series of actual earthquake records are considered for evaluating peak ground acceleration (PGA) for each of the zones by using neural network models. The input parameters are magnitude, epicenter distance, and focal depth for each of the checking stations, and the peak ground acceleration is calculated as the output with the use of spatial relationship in an averaged sense. The neural network model estimations showed that for 5 of the locations, out of the 24 locations considered, the design value recommended in the building code would be exceeded. In addition, a curve fitting model, PGA = 8.96/Df, is developed for the relationship between horizontal PGA and focal distance (Df), and reflecting the essential characteristics of strong motion in region investigated. The neural network model and the mathematical equation can provide useful information for both the relevant government agencies and practicing engineering designers."
 
 # Summary. An optional shortened abstract.
 summary: ""

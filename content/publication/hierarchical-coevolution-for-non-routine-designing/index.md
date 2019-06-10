@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "P. Wigham, K. Richards, B. McKay, M. Gen, Y. Tujimura and A. Namatame (eds), Proceedings of the Fifth Australia-Japan Joint Workshop on Intelligent & Evolutionary Systems, University of Otago, Dunedin, 19–21 November 2001, pages 137--155"
 publication_short: "Proc. 5th Australia-Japan Joint Workshop on Intelligent & Evolutionary Systems, 137--155"
 
-abstract: ""
+abstract: "This paper presents an evolutionary model for non-routine designing based on hierarchical co-evolution. It examines some of the ways that design knowledge required by evolutionary processes have been approached to date. It then discusses how the hierarchical co-evolution model addresses the requirements of an evolutionary design model. An implementation in the domain of space planning is presented."
 
 # Summary. An optional shortened abstract.
 summary: ""

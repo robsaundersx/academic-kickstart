@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of CAAD Futures 2007, Sydney, pages 447--460"
 publication_short: "Proc. CAAD Futures 2007, 447--460"
 
-abstract: ""
+abstract: "Agent technology has been used as an organising mechanism for software systems that focus on modularity and autonomy. This paper presents two applications that explore the potential of combining agent technologies with physical building design elements to change the nature of the built environment from a passive space to one that proactively engages with its inhabitants. We focus on how these curious places sense the state of the environment and the activities of the humans in the environment and enhance the human experience, going beyond the concept of supporting human activities in traditional approaches to intelligent rooms."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

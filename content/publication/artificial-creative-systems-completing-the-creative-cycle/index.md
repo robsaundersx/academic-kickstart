@@ -20,7 +20,7 @@ publication: "Computational Creativity: An
 Interdisciplinary Approach, 12–17 August 2009, Schloss Dagstuhl, Wadern, Germany"
 publication_short: ""
 
-abstract: ""
+abstract: "Human creativity is personally, socially and culturally situated: creative individuals work within environments rich in personal experiences, social relationships and cultural knowledge. Computational models of creative processes typically neglect some or all of these aspects of human creativity. How can we hope to capture this richness in computational models of creativity? This paper introduces recent work at the Design Lab where we are attempting to develop a model of artificial creative systems that can combine important aspects at personal, social and cultural levels."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

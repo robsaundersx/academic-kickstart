@@ -40,14 +40,14 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: http://www.namoc.org/en/exhibitions/201405/t20140528_277491.htm
-  icon_pack: fas
-  icon: link
-- name: Buy
+  # icon_pack: fas
+  # icon: link
+- name: BUY
   url: https://www.amazon.com/thingworld-International-Triennial-New-Media/dp/1781381453
-  icon_pack: fab
-  icon: amazon
+  # icon_pack: fab
+  # icon: amazon
 
 url_pdf:
 url_code:
@@ -71,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative-robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

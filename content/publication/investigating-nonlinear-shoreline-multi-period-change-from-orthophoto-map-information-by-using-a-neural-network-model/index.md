@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Investigating Non-linear Shoreline Multi-period Change from Orthophoto Map Information by Using a Neural Network Model"
+title: "Investigating Nonlinear Shoreline Multi-period Change from Orthophoto Map Information by Using a Neural Network Model"
 authors: [Tienfuan Kerh, Hsienchang Lu, Rob Saunders]
 date: 2014-01-01
-doi: ""
+doi: "10.1155/2014/782525"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-01T11:51:32+01:00
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Mathematical Problems in Engineering*, Cairo, London & New York: Hindawi Publishing Corporation, Article ID 782525 (online), 12 pages"
 publication_short: ""
 
-abstract: ""
+abstract: "The effects of extreme weather and overdevelopment may cause some coastal areas to exhibit erosion problems, which in turn may contribute to creating disasters of varying scale, particularly in regions comprising islands. This study used aerial survey information from three periods (1990, 2001, and 2010) and used graphical software to establish the spatial data of six beaches surrounding the island of Taiwan. An overlaying technique was then implemented to compare the sandy area of each beach in the aforementioned study periods. In addition, an artificial neural network model was developed based on available digitised coordinates for predicting coastline variation for 2015 and 2020. An onsite investigation was performed using a global positioning system for comparing the beaches. The results revealed that two beaches from this study may have experienced significant changes in total sandy areas under a statistical 95% confidence interval. The proposed method and the result of this study may provide a valuable reference in follow-up research and applications."
 
 # Summary. An optional shortened abstract.
 summary: ""

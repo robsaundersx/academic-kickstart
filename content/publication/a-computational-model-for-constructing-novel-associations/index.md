@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the International Joint Workshop on Computational Creativity, Universidad Complutense de Madrid"
 publication_short: "Proc. Int. Joint Workshop on Computational Creativity, Universidad Complutense de Madrid"
 
-abstract: ""
+abstract: "This paper presents a computational model for the construction of novel associations as a component of a larger project on analogy-making. Association-construction is driven by a reinterpretation-based model of subjective similarity. Associations are constructed by transforming the way the agent perceives the objects being associated so that they become similar. The paper describes a model where an agent develops associations by an iterative process of attempting to relate objects in its environment by building appropriate transformative interpretations. Possible methods for the learning of transformations are discussed. The capabilities and implications of the model are discussed through an example application to the domain of geometric proportional analogies."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

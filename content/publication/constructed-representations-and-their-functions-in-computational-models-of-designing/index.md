@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "B-K. Tang, M. Tan and Y-C. Wong (eds.), Proceedings of the Fifth Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2000), CASA, Singapore, pages 215--224"
 publication_short: "Proc. 5th Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2000), 215--224"
 
-abstract: ""
+abstract: "This paper re-examines the conclusions made my Schön and Wiggins in 1992 that computers were unable to reproduce processes crucial to designing. We propose that recent developments in artificial intelligence and design computing put us in a position where we can begin to computationally model designing as conceived by Schön and Wiggins. We present a computational model of designing using situated processes that construct representations. We show how constructed representations support computational processes that model the different kinds of seeing reported in designing. We also present recently developed computational processes that can identify unexpected consequences of design actions using adaptive novelty detection."
 
 # Summary. An optional shortened abstract.
 summary: ""

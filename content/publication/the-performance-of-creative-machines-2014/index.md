@@ -13,13 +13,13 @@ publishDate: 2019-06-01T12:12:12+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Cultural Robotics: First International Workshop (CR 2015)*, IEEE RO-MAN 2015, Kobe, Japan, August 31, 2015"
 publication_short: ""
 
-abstract: ""
+abstract: "Cybernetic and robotic agents have long played an instrumental role in the production of ‘machine creativity’ as a cultural discourse. This paper traces the cultural legacy of the performance of automata and discusses historical and contemporary works to explore machine creativity as a cultural, bodily practice. Creative machines are explored as performers, capable to expand the script they are given by their human creator and skillful in bidding for the audience’s attention."
 
 # Summary. An optional shortened abstract.
 summary: ""

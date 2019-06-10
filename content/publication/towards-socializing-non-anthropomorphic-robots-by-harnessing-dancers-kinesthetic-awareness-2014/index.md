@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "*Cultural Robotics: First International Workshop (CR 2015)*, IEEE RO-MAN 2015, Kobe, Japan, August 31, 2015"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper discusses a novel approach towards socializing non-anthropomorphic robots, which harnesses the expert knowledge of dancers to develop abstract robot morphologies and their capacity to move in affective and expressive ways. We argue that movement offers a key to socializing non-anthropomorphic robots. Our Performative Body Mapping (PBM) method investigates the possibility of teaching a non-humanlike robot to move and interact by human movement experts. The paper outlines the conceptual framework of PBM and discusses an ongoing pilot study that engages professional dancers to study the relationship between abstract, simple morphologies and their potential to move in expressive, socially encoded ways."
 
 # Summary. An optional shortened abstract.
 summary: ""

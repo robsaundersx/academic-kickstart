@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "EvoMUSART 2009, 15–17 April 2009, Tubingen, Germany"
 publication_short: ""
 
-abstract: ""
+abstract: "This document presents a novel approach to teaching generative design systems by extending a design grammar to support parametric and evolutionary design. We present some of the problems that design students have learning about generative systems, describe our solution to providing students with a progressive learning experience from design grammars, through parametric design, to evolutionary design. We conclude with a discussion of the benefits of our approach and some directions for future developments."
 
 # Summary. An optional shortened abstract.
 summary: ""

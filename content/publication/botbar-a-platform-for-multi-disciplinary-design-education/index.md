@@ -4,7 +4,7 @@
 title: "Botbar: A Platform for Multi Disciplinary Design Education"
 authors: [Marjo Niemela, Samantha Horlyk, Susana Alarcon-Licona, Dylon Wozniak-O'Connor, Gabrielle Ulacco, Rodney Watt, Rob Saunders]
 date: 2016-03-31T22:32:05+01:00
-doi: ""
+doi: "10.1007/978-3-319-26378-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-05-31T22:32:05+01:00
@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in D. Reinhardt, R. Saunders and J. Burry (eds) *Robotic Fabrication in Architecture, Art and Design 2016*, Springer, pp. 251–262"
 publication_short: ""
 
-abstract: ""
+abstract: "The BotBar has been developed to respond to the significant challenge of integrating smart technologies and sensor loops with industrial robot arms. The process has focused on the robot as an open design platform, utilized as a nexus for education and collaboration between the disciplines of Architecture and Interaction Design. This paper discusses the success and challenges that have emerged from this project, while also documenting an interaction design studio that prototyped sensor-based integrations with the BotBar."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,12 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: LINK
+  url: https://www.springer.com/gb/book/9783319263762
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

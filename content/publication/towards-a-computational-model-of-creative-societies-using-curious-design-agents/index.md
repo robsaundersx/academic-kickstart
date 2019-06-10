@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in Engineering Societies in the Agents World VII, Vol. 4457 of LNAI, Springer, pp. 340–353"
 publication_short: ""
 
-abstract: ""
+abstract: "In any prolonged creative act, there may be moments when an interesting and/or surprising aspect of the artefact being created, or a related idea, emerges without prior knowledge of the creator. Such emergent properties can be capitalised on to drive the creative process. With the Gamika iOS app, we have made it possible to create novel casual game levels in minutes and hours rather than the usual days and weeks. This has enabled us to undertake and analyse game design sessions with a think aloud methodology, focusing on moments of emergence and how they influenced the level design. This has in turn led us to an initial computational reading of emergence in game design, where we imagine how an automated game designer could recognise and take advantage of unexpected changes in aspects such as aesthetics, gameplay and playing strategies which arise during the creative process."
 
 # Summary. An optional shortened abstract.
 summary: ""

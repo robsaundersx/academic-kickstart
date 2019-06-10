@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Digital Stereotomy---The Rejuvenation of Stone Masonry"
+title: "Digital Stereotomy—The Rejuvenation of Stone Masonry"
 authors: [Shayani Fernando, Rob Saunders, Simon Weir]
 date: 2015-01-01
 doi: ""
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 16th International Conference CAAD Futures 2015, Sao Paulo, Brazil"
 publication_short: "Proc. 16th Int. Conf. CAAD Futures 2015"
 
-abstract: ""
+abstract: "This paper explores four factors contributing to the revival of stone masonry; aesthetics, externalities, representational tools and cutting technologies. The ongoing desirability of stone for architects and designers for aesthetic reasons; sustainability benefits of stone due to its potentially reducing hidden externalities of production and transportation; the development of representational tools in terms of advances in computer aided design, simulation, analysis and manufacturing; and advances in production technologies. This paper focuses on how digital technologies are making stone a viable material for architects and designers."
 
 # Summary. An optional shortened abstract.
 summary: ""

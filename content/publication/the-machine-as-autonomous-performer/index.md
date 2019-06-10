@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in L. Candy and S. Ferguson (eds) *Interactive Experience in the Digital Age. Evaluating New Art Practice*, Springer Series on Cultural Computing, pp. 75–90"
 publication_short: ""
 
-abstract: ""
+abstract: "In this chapter we explore the experience of interactive system-based artworks that exhibit autonomous behaviours in an interactive context. Engaging with such autonomously behaving works opens up experiences that are more akin to conversing, performing, or negotiating. We introduce cybernetic influences and take a closer look at the performance of the participant/machine system. Following this, we discuss the ways in which artists approach working with adaptive systems and observe audiences to iteratively improve their system designs. At the core of the chapter is a discussion of five artworks that serve as our case studies: two influential works: Edward Ihnatowicz’s The Senster and Ken Rinaldo’s Autopoiesis, and three projects developed by the authors: Uzume, Accomplice, and Zamyatin. We use these case studies to explore the artists’ approach to autonomy, how it shapes the audience's experience and the methods used in the development and evaluative process."
 
 # Summary. An optional shortened abstract.
 summary: ""

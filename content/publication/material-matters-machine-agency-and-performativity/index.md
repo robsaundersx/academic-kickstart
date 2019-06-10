@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 17th International Symposium on Electronic Art (ISEA 2011), Istanbul, pages 14--21"
 publication_short: "Proc. 17th Int. Symposium on Electronic Art (ISEA 2011), 14--21"
 
-abstract: ""
+abstract: "This paper explores new forms of entanglement between human and nonhuman agents. In considering the performative potential of intelligent machine agents, we are interested in shifting the focus from representational issues to questions of agency and materiality. The investigation revolves around the authors’ robotic installation “Zwischenräume”."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: LINK
+  url: https://isea2011.sabanciuniv.edu/paper/material-matters-machine-agency-and-performativity
 
 url_pdf:
 url_code:
@@ -58,7 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative-robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

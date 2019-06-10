@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*International Journal of Civil, Environmental, Structural, Construction and Architectural Engineering*, **8**(4):381–386"
 publication_short: ""
 
-abstract: ""
+abstract: "Shoreline erosion problems caused by global warming and sea level rising may result in losing of land areas, so it should be examined regularly to reduce possible negative impacts. Initially in this study, three sets of survey images obtained from the years of 1990, 2001, and 2010, respectively, are digitalized by using graphical software to establish the spatial coordinates of six major beaches around the island of Taiwan. Then, by overlaying the known multi-period images, the change of shoreline can be observed from their distribution of coordinates. In addition, the neural network approximation is used to develop a model for predicting shoreline variation in the years of 2015 and 2020. The comparison results show that there is no significant change of total sandy area for all beaches in the three different periods. However, the prediction results show that two beaches may exhibit an increasing of total sandy areas under a statistical 95% confidence interval. The proposed method adopted in this study may be applicable to other shorelines of interest around the world."
 
 # Summary. An optional shortened abstract.
 summary: ""

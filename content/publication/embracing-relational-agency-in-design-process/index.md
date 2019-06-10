@@ -19,7 +19,9 @@ publication_types: ["1"]
 publication: "Design and Semantics of Form and Movement: Proceedings of DESFORM 2012, Wellington"
 publication_short: "Design and Semantics of Form and Movement: Proc. DESFORM 2012, Wellington"
 
-abstract: ""
+abstract: "Our research investigates how the design process can accommodate a relational view of agency. According to the relational view, agency – or capacities of action – is neither an attribute of subjects nor of objects. The relational view of agency in design may allow designers to recognize and support the diversity and richness involved in human agency. To this end, we developed six design qualities to embrace the relational view of agency in design process. Using these qualities, we have created design inscriptions in the forms of materials and process constructs and applied them in a series
+of participatory design workshops, focusing on the notion of connectedness. We present how effective our inscriptions were in supporting the ASD qualities
+in each workshop."
 
 # Summary. An optional shortened abstract.
 summary: ""

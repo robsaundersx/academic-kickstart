@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "50th Annual Convention of the Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB 2014), London"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper presents a proposal for a creative robotics approach to human-robot interaction. The ‘Performative Body Mapping’ method exploits the expertise of artists and performers to imagining novel robot morphologies and movements. The proposed approach describes a mapping method between human and robot bodies, which supports the learning of socially meaningful interactions through imitation."
 
 # Summary. An optional shortened abstract.
 summary: ""

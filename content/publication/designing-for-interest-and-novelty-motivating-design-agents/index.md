@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "B. de Vries, J. van Leeuwen and H. Achten (eds), Proceedings of CAADFutures 2001, Kluwer, Dordrecht, 725–738"
 publication_short: "Proc. CAADFutures 2001, 725--738."
 
-abstract: ""
+abstract: "This paper is concerned with the motivation of design agents to promote the exploration of design spaces. A general form of motivation common to designers is a curiosity to discover interesting designs. This paper presents computational models of interest and curiosity based on the detection of novelty. We illustrate the behaviour of our model of interest by developing a design agent that is motivated to explore the effects of emergent crowd behaviours on the performance of doorways."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

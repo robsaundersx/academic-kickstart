@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 4th International Conference on Computational Creativity, Sydney, pages 215--219"
 publication_short: "Proc. 4th Int. Conf. on Computational Creativity, 215–219"
 
-abstract: ""
+abstract: "The invention of machine performers has a long tradition as a method of philosophically probing the nature of creativity. Robotic art practices in the 20th Century have continued in this tradition, playfully engaging the public in questions of autonomy and agency. In this position paper, we explore the potential synergies between robotic art practice and computational creativity research through the development of robotic performances. This interdisciplinary approach permits the development of significantly new modes of interaction for robotic artworks, and potentially opens up computational models of creativity to rich social and cultural environments through interaction with audiences. We present our exploration of this potential with the development of Zwischenra ̈ume (In-between Spaces), an artwork that embeds curious robots into the walls of a gallery. The installation extends the traditional relationship between the audience and artwork such that visitors to the space become performers for the machine."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [embodied-computational-creativity, creative-robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

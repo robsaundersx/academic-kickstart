@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Rewire 2011: Fourth International Conference on the Histories of Media Art, Science and Technology, Liverpool, pages 28--30"
 publication_short: "Rewire 2011: 4th Int. Conf. on the Histories of Media Art, Science and Technology, 28--30"
 
-abstract: ""
+abstract: "Starting from the premise that our idea of machines has expanded from questions of instrumentality to “a discourse of machine as acting and interacting other” (Suchman 1998), this paper traces the evolution of machine agency and our conception of it through the entangled histories of art, philosophy and engineering. If research in robotics can be looked at as a “philosophy of mind using a Screwdriver” (Harvey 2000), our investigation sets up robotic art and its precursor, cybernetic art, as a open laboratory that experiments with and implicates audiences in critical questions of autonomy, agency, embodiment and materiality."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative-robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

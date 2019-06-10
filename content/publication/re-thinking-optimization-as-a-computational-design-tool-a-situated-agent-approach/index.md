@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of Computer Aided Architectural Design Research in Asia 2007 (CAADRIA 2007), Nanjing, China"
 publication_short: "Proc. CAADRIA 2007"
 
-abstract: ""
+abstract: "This paper presents a situated agent for design optimization. A situated agent captures, learns from and re-uses the interactions which it has with its external environment, forming the basis for experience based knowledge building in an agent. An agent is developed for design modeling, reformulation and algorithm selection – a class of tasks in design optimization traditionally performed by humans based on their experience, and hard to automate."
 
 # Summary. An optional shortened abstract.
 summary: ""

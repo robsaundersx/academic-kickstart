@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in Dewdney, A. and Ride, P. *The New Media Handbook*, Routledge, New York, pp. 125–130"
 publication_short: ""
 
-abstract: ""
+abstract: "Rob Saunders is a programmer and works as a freelance consultant in the media 19 industry with a range of clients. He is also employed on non-commercial projects. With a background in computer science, Rob is a specialist who has considerable expertise in the programming that goes into artificial intelligence and artificial life systems. The work he does often includes developing highly complex programs that use this level of programming knowledge to generate intelligent artworks and complex design systems. In particular this leads Rob to work as a consultant with design firms where his programming skills contribute to a project alongside the expertise of other new media practitioners and design specialists to create innovative web-based projects. Programming with the sophistication and the depth that he is able to operate at can enable a new form of creativity and visual outcome. In this interview, Rob discusses how he collaborates with other members of a creative team and develops a project. He also addresses how, as a specialist working with programming and data management at a deep level, he is at a different level from that of his partners and how he manages his contribution to a larger project without allowing what he does to dominate the design or creative concepts."
 
 # Summary. An optional shortened abstract.
 summary: ""

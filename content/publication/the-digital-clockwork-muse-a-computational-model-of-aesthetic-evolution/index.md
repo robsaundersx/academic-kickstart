@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "G. Wiggins (ed.), Proc. AISB'01 Symposium on AI and Creativity in Arts and Science, SSAISB, pages 12--21"
 publication_short: "Proc. AISB'01 Symposium on AI and Creativity in Arts and Science, 12--21"
 
-abstract: ""
+abstract: "This paper presents a computational model of creativity that attempts to capture within a social context an important aspect of the art and design process: the search for novelty. The computational model consists of multiple novelty-seeking agents that can assess the interestingness of artworks. The agents can communicate to particularly interesting artworks to others. Agents can also communicate to reward other agents for finding interesting artworks. We present the results from running experiments to investigate the effects of searching for different degrees of novelty on the artworks produced and the social organisation of the agents."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [distributed-computational-creativity, intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

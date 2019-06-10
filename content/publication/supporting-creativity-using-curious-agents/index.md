@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Computational Creativity Support workshop, CHI 2009, 4 April, 2009, Boston, MA"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper briefly examines the evidence for a link between creativity and curiosity and argues that one way to better support creative processes is to develop computational systems that incorporate models of curiosity. Empirical evidence about curious behaviour provides some useful guidance in the development of simple computational models of explorative curiosity. Existing agent-based models of curiosity are presented and discussed with reference to models of individual creativity. A scenario for supporting creativity is presented where a curious agent models a user’s preference for novelty. Limitations this approach are discussed and a ways to overcome them suggested."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, creative-computing]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

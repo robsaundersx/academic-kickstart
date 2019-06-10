@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the Second International Conference on Computational Creativity, Mexico City, pages 132--134."
 publication_short: "Proc. 2nd Int. Conf. on Computational Creativity, 132--134."
 
-abstract: ""
+abstract: "In this paper we outline ongoing research into a computational model of association based on the reinterpretation of a source object to fit the target. We describe the structure of the model and the concepts from which it arises. Preliminary results of visual associations made by the system in a simple shape domain are presented. We also discuss a planned application of our model to the analysis of a real-world creative design."
 
 # Summary. An optional shortened abstract.
 summary: ""

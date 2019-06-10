@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of Agents in Design 2002, Key Centre of Design Computing and Cognition, Sydney, Australia, pages 133--149"
 publication_short: "Proc. Agents in Design 2002, 133--149"
 
-abstract: ""
+abstract: "This paper presents a possible future direction for agent-based simulation using complex agents that can learn from experience and report their individual evaluations. Adding learning to the agent model permits the simulation of potentially important agent behaviour such as curiosity. The agents can then report evaluations of a design that are situated in their individual experience, such as their level of interest as they explore. The paper describes the architecture of curious agents that can be used in the situated evaluation of designs. It then describes an example of the application of such curious agents in the evaluation of the curating of an exhibition in an art gallery."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

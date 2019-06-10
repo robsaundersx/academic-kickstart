@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: "*Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013)*, Singapore 15-18 May 2013, pages 863--872"
 publication_short: "*Proc. 18th Int. Conf. on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013)*, 863--872"
 
-abstract: ""
+abstract: "This paper presents a computational model of association in design that incorporates the ability to learn from experience. Experiments with an implementation of our model of computational design association, the interpretation-driven model, demonstrate this experiential influence. The challenges inherent in building computational models of association, and the potential offered by the interpretation-driven approach are discussed with reference to a typology of association learning."
 
 # Summary. An optional shortened abstract.
 summary: ""

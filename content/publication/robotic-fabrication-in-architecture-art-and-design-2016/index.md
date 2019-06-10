@@ -37,10 +37,10 @@ featured: true
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: http://www.springer.com/us/book/9783319263762
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

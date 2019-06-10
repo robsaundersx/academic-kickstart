@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 4th International Conference on Computational Creativity, Sydney, pages 205--209"
 publication_short: "Proc. 4th Int. Conf. on Computational Creativity, 205–209"
 
-abstract: ""
+abstract: "As we develop interactive systems involving computational models of creativity, issues around our interaction with these systems will become increasingly important. In particular, the interaction between human and computational creators presents an unusual and ambiguous power relation for those familiar with typical human-computer interaction. These issues may be particularly pronounced with embodied artificial creative systems, e.g., involving groups of mobile robots, where humans and computational creators share the same physical environment and enter into social and cultural exchanges. This paper presents a first attempt to examine these issues of human-robot interaction through a series of controlled experiments with a small group of mobile robots capable of composing, performing and listening to simple songs produced either by other robots or by humans."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [intrinsically-motivated-computational-creativity, distributed-computational-creativity, embodied-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

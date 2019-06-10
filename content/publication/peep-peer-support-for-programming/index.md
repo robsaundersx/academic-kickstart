@@ -19,7 +19,7 @@ publication_types: ["6"]
 publication: "chapter in L. Carvalho and P. Goodyear (eds) *The Architecture of Productive Learning Networks*, Routledge"
 publication_short: ""
 
-abstract: ""
+abstract: "Peep is an online environment that supports one of the courses (DECO1012) offered as part of the Bachelor of Design Computing at the Faculty of Architecture, Design and Planning in the University of Sydney (Australia). This degree program combines the creativity of design with a technical knowledge of computing; there is an emphasis on students exploring aesthetic possibilities in computer-expressed works. DECO1012 introduces first-year undergraduate design students to a computer programing language, with particular emphasis on its practical application. The course is designed to encourage students’ experimentation with programing as a tool for designing and as a medium of expression in digital media and interaction design. The course comprises weekly one-hour lectures and two-hour lab tutorials, supported by Peep. DECO1012 is a compulsory core subject for the Bachelor of Design Computing and it is offered annually during the first semester for a period of 13 weeks."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: https://www.routledge.com/The-Architecture-of-Productive-Learning-Networks-1st-Edition/Carvalho-Goodyear/p/book/9780415816564
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

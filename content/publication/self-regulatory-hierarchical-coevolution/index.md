@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Artificial Intelligence for Engineering Design, Analysis and Manufacturing (AIEDAM)*, Vol. 17, No. 4, pp. 273–285"
 publication_short: ""
 
-abstract: ""
+abstract: "An evolutionary model for nonroutine design is presented, which is called hierarchical coevolution. The requirements for an evolutionary model of nonroutine design are provided, and some of the problems with existing approaches are discussed. Some of the ways in which these problems have been addressed are examined in terms of the design knowledge required by evolutionary processes. Then, a synthesis of these approaches as a hierarchical coevolutionary model of nonroutine design is presented and the manner in which this model addresses the requirements of an evolutionary design model is discussed. An implementation in the domain of space planning provides an example of a hierarchical design problem."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
-- name: Link
+- name: LINK
   url: https://www.cambridge.org/core/journals/ai-edam/article/selfregulatory-hierarchical-coevolution/81914FD26BAF3BB12201914D59DBFC0C
-  icon_pack: fas
-  icon: link
+  # icon_pack: fas
+  # icon: link
 
 url_pdf:
 url_code:

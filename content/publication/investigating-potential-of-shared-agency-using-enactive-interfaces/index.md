@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the International Conference of the New Interfaces for Musical Expression (NIME), Sydney"
 publication_short: "Proc. Int. Conf. of the New Interfaces for Musical Expression (NIME)"
 
-abstract: ""
+abstract: "Human agency, our capacity for action, has been at the hub of discussions centring upon philosophical enquiry for a long period of time. Sensory supplementation devices can provide us with unique opportunities to investigate the different aspects of our agency by enabling new modes of perception and facilitating the emergence of novel interactions, all of which is impossible without the aforesaid devices. Our preliminary study investigates the non-verbal strategies employed for negotiation of our capacity for action with other bodies and the surrounding space through body-to-body and body-to-space couplings enabled by sensory supplementation devices. We employed a low-fi rapid prototyping approach to build this device, enabling distal perception by sonic and haptic feedback. Further, we conducted a workshop in which participants equipped with this device engaged in game-like activities."
 
 # Summary. An optional shortened abstract.
 summary: ""

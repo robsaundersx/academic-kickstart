@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "xCoAx 2014: Second Conference on Computation, Communication, Aesthetics and X, Porto, Portugal: Universidade do Porto"
 publication_short: "xCoAx 2014: 2nd Conf. on Computation, Communication, Aesthetics and X"
 
-abstract: ""
+abstract: "Creative coding has goals, methods and tools that distinguish it from other forms of programming practice. A number of creative coding practitioners regularly engage with complex systems in creative applications, such as neural networks, genetic evolution, ecosystems and reaction-diffusion equations. Such systems are conceptually opaque and hard to manipulate, but we know little about the ways in which creative coders handle them. In this paper we present findings from a survey of creative coders regarding how they deal with complexity in their work. We discuss four issues of interest: time-demands of specific activities; sources of knowledge and approaches to problem solving; approaches to exploration; and information-seeking versus intuitive styles of working. Our results provide an initial characterisation of creative coding strategies and suggest how tools could be better adapted to their needs."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative-computing]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

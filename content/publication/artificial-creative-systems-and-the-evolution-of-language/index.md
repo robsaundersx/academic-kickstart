@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the Second International Conference on Computational Creativity, 27–29 April 2011, Mexico City, Mexico, pages 36--41"
 publication_short: "Proc. 2nd Int. Conf. on Computational Creativity, 36--41"
 
-abstract: ""
+abstract: "Most studies of human creativity have focused on individuals, assuming that creativity can be defined with respect to the characteristics, processes or activities of extraordinary people. Computational models of creativity have often inherited this assumption and emphasised generative processes to the exclusion of considering social or cultural aspects. This paper presents work to extend computational models of social creativity to support the evolution of domain specific languages. Artificial creative societies provide the opportunity for studying creativity-as-it-as in the context of creativity-as-it-could-be. The computational model of an artificial creative systems presented here extends previous computational models by introducing a linguistic component that supports the production and sharing of works with associated descriptions. This paper examines the potential for this extended model of social creativity to support the study of the roles that language plays in the formation, interaction and maintenance of creative domains."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [distributed-computational-creativity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

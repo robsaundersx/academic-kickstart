@@ -4,7 +4,7 @@
 title: "On Track: A Slippery Mechanic-Robotic Performance"
 authors: [Petra Gemeinboeck, Marion Traenkle, Linda Dement, PRINZGAU/podgorschek, Rob Saunders]
 date: 2010-01-01
-doi: ""
+doi: "10.1162/LEON_a_00046"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-01T12:00:51+01:00
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Leonardo*, Vol. 43, No. 5, October 2010, pp. 488–489"
 publication_short: ""
 
-abstract: ""
+abstract: "This article explores the production of ON TRACK, a performative installation, whose slippery, smelly narrative emerges from the interactions and interferences between a mechanical mop, a troupe of robotic brushes and spilling viscous fluids. The machinic assemblage performs ‘other ways of knowing’, unfolding where the programmed and choreographed meet the messy and unknown. The work was created within the e-MobiLArt project."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,6 +35,10 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+- name: LINK
+  url: https://www.mitpressjournals.org/doi/10.1162/LEON_a_00046
 
 url_pdf:
 url_code:
@@ -58,7 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [creative-robotics]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
