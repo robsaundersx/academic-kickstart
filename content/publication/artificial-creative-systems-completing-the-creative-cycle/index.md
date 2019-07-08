@@ -3,7 +3,7 @@
 
 title: "Artificial Creative Systems: Completing the Creative Cycle"
 authors: [Rob Saunders]
-date: 2009-01-01
+date: 2009-08-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

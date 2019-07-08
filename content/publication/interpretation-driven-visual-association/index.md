@@ -3,7 +3,7 @@
 
 title: "Interpretation-Driven Visual Association"
 authors: [Kazjon Grace, Rob Saunders, John S. Gero]
-date: 2011-01-01
+date: 2011-04-27
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

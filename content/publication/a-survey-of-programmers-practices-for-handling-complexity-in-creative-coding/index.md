@@ -3,7 +3,7 @@
 
 title: "A Survey of Programmers’ Practices for Handling Complexity in Creative Coding"
 authors: [Oliver Bown, Rob Saunders, Martin Tomitsch]
-date: 2014-01-01
+date: 2014-06-26
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
