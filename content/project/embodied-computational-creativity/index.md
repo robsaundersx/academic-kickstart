@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Embodied Computational Creativity"
-summary: ""
+summary: "This project explores the development of embodied creative agents."
 authors: [Rob Saunders]
 tags: []
 categories: []

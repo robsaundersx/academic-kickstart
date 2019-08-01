@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Creative Computing"
-summary: "Developing and teaching creative applications of code."
-authors: []
+summary: "This project explores the development of computing environments to support creative practices, e.g., design computing and games development."
+authors: [Rob Saunders]
 tags: []
 categories: []
 date: 2019-06-07T13:21:27+01:00

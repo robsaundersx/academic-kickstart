@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Distributed Computational Creativity"
-summary: "Modelling social creativity using multi-agent systems composed of intrinsically motivated agents."
+summary: "This project explores the modelling social creativity using multi-agent systems composed of intrinsically motivated agents."
 authors: [Rob Saunders]
 tags: []
 categories: []

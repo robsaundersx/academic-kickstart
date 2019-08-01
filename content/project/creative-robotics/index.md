@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Creative Robotics"
-summary: ""
+summary: "This project explores the creative potential of robots as embodied creative agents and as a medium for creative expression."
 authors: [Petra Gemeinboeck, Rob Saunders]
 tags: []
 categories: []

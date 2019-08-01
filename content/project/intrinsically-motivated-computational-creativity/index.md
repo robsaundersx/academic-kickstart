@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Intrinsically Motivated Computational Creativity"
-summary: ""
+summary: "This project explores the computational modelling of intrinsic motivation in creative individuals."
 authors: [Rob Saunders]
 tags: []
 categories: []
