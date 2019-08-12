@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor in Computational Creativity
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Falmouth University
-  url: "https://falmouth.ac.uk"
-- name: Sydney University
-  url: "https://sydney.edu.au"
+- name: Leiden University
+  url: "https://www.universiteitleiden.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Creativity and Creative Robotics.
@@ -70,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Rob Saunders is a Associate Professor in Computational Creativity at Falmouth Univeristy and Senior Research Fellow at Sydney University. His research interests include Computational Creativity and Creative Robotics. He co-directs the MetaMakers Institute at Falmouth University, which applies Computational Creativity to Games Design and Development.
+Rob Saunders is Associate Professor at Leiden Univeristy. His research interests include Computational Creativity and Creative Robotics.
