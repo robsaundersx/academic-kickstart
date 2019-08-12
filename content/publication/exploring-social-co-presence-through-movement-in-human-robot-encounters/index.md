@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exploring Social Co Presence Through Movement in Human Robot Encounters"
+title: "Exploring Social Co-Presence Through Movement in Human Robot Encounters"
 authors: [Petra Gemeinboeck, Rob Saunders]
 date: 2019-07-26T21:45:55+01:00
 doi: ""
