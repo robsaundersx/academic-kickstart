@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Rob Saunders is Associate Professor at Leiden Univeristy. His research interests include Computational Creativity and Creative Robotics.
+Rob Saunders is Associate Professor in the Leiden Institute for Advanced Computer Science at Leiden University. His research interests include Computational Creativity and Creative Robotics.
